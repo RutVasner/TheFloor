@@ -1,16 +1,63 @@
-# React + Vite
+# 🏟️ The Arena – משחק טריוויה בריאקט
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+משחק טריוויה אינטראקטיבי בהשראת שעשועון הטלוויזיה **"הזירה"**.  
+המשחק בנוי כלוח קוביות של שחקנים, כאשר כל דו־קרב מתבצע על נושא מסוים ומוכרע לפי זיהוי תמונות בזמן אמת.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 תיאור המשחק
 
-## React Compiler
+- ישנם **15 שחקנים**, כל אחד עם:
+  - שם
+  - נושא ייחודי
+  - צבע ייחודי
+- לוח המשחק מציג קובייה לכל שחקן
+- בחירת שתי קוביות יוצרת **דו־קרב**
+- הנושא של הדו־קרב נקבע לפי הקובייה השנייה שנבחרה
+- בדו־קרב:
+  - מוצגות תמונות לפי נושא
+  - כל שחקן מקבל **30 שניות אישיות**
+  - זיהוי נכון מזכה בנקודה ומעביר תור
+  - זיהוי שגוי מציג תשובה אך לא מעביר תור
+- בסיום הסיבוב:
+  - נקבע מנצח
+  - המפסיד מאבד את הקובייה שלו
+  - הקובייה משנה צבע, שם ונושא למנצח
+- המשחק חוזר אוטומטית ללוח הזירה
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⌨️ שליטה במשחק
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Y** – השחקן זיהה נכון את התמונה
+- **X** – השחקן לא ידע לזהות
+- אין שימוש בכפתורים – המשחק מיועד להפעלה מהירה ע"י מנחה
+
+---
+
+## 🧠 תנאי סיום דו־קרב
+
+הדו־קרב מסתיים כאשר מתקיים אחד מהתנאים:
+1. נגמר הזמן של אחד השחקנים
+2. נגמרו התמונות בקטגוריה
+
+בכל מקרה – חוזרים אוטומטית ללוח הזירה.
+## 🗂️ מבנה הפרויקט
+src/
+├── components/
+│   ├── ArenaBoard.jsx      # לוח הקוביות
+│   ├── BattleScreen.jsx    # מסך דו־קרב
+│   └── App.jsx             # ניהול מסכים ולוגיקה ראשית
+│
+├── data/
+│   ├── players.js          # רשימת שחקנים התחלתית
+│   ├── images.js           # תמונות לפי נושא
+│   └── topics.js           # שמות נושאים בעברית
+│
+├── assets/
+│   ├── food/
+│   ├── animals/
+│   ├── sports/
+│   └── ...
+│
+└── main.jsx
