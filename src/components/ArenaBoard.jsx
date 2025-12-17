@@ -12,7 +12,7 @@ export function ArenaBoard({ board, selected, onTileClick }) {
             alignItems: "center",
             justifyContent: "center",
             backgroundColor: player.color,
-            border: selected.some((p) => p.id === player.id) ? "3px solid black" : "1px solid #333",
+            border: selected.some((p) => p.id === player.id) ? "1px solid #333" : "",
             cursor: "pointer",
             transition: "background-color 0.3s",
           }}
