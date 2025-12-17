@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { initialPlayers } from "./data/players";
 import { ArenaBoard } from "./components/ArenaBoard";
-import { BattleScreen } from "./components/BattleFloor";
+import { BattleFloor } from "./components/BattleFloor";
 
 export default function App() {
   const [screen, setScreen] = useState("arena");
@@ -40,6 +40,6 @@ export default function App() {
   return screen === "arena" ? (
     <ArenaBoard board={board} selected={selected} onTileClick={onTileClick} />
   ) : (
-    <BattleScreen battle={battle} onEnd={onBattleEnd} />
+    <BattleFloor battle={battle} onEnd={onBattleEnd} />
   );
 }

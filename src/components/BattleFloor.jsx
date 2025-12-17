@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { imageMap } from "../data/images";
 
-export function BattleScreen({ battle, onEnd }) {
+export function BattleFloor({ battle, onEnd }) {
   const { p1, p2, topic } = battle;
 
   const images = imageMap[topic] || [];
@@ -108,15 +108,37 @@ export function BattleScreen({ battle, onEnd }) {
   // =============================
   // מקלדת
   // =============================
-  useEffect(() => {
-    const handleKey = (e) => {
-      if (e.key.toLowerCase() === "y") onYes();
-      if (e.key.toLowerCase() === "x") onNo();
-    };
+useEffect(() => {
+  const yesKeys = new Set([
+    "v",
+    "V",
+    "ArrowRight",
+    // "ArrowUp",
+    "ה",
 
-    window.addEventListener("keydown", handleKey);
-    return () => window.removeEventListener("keydown", handleKey);
-  }, [turn, index]);
+  ]);
+
+  const noKeys = new Set([
+    "x",
+    "X",
+    "ArrowLeft",
+    // "ArrowDown",
+    "ס",
+  ]);
+
+  const handleKey = (e) => {
+    if (yesKeys.has(e.key)) {
+      onYes();
+    }
+
+    if (noKeys.has(e.key)) {
+      onNo();
+    }
+  };
+
+  window.addEventListener("keydown", handleKey);
+  return () => window.removeEventListener("keydown", handleKey);
+}, [turn, index]);
 
   if (!images[index]) return null;
 
