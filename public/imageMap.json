@@ -157,6 +157,160 @@
       "answer": "ZEBRA"
     }
   ],
+  "electrics": [
+    {
+      "src": "/assets/electrics/AIR CONDITIONER.jpg",
+      "answer": "AIR CONDITIONER"
+    },
+    {
+      "src": "/assets/electrics/ALARM CLOCK.jpg",
+      "answer": "ALARM CLOCK"
+    },
+    {
+      "src": "/assets/electrics/BLENDER.jpg",
+      "answer": "BLENDER"
+    },
+    {
+      "src": "/assets/electrics/BLOW DRYER.jpg",
+      "answer": "BLOW DRYER"
+    },
+    {
+      "src": "/assets/electrics/CAMERA.jpg",
+      "answer": "CAMERA"
+    },
+    {
+      "src": "/assets/electrics/CHARGER.jpg",
+      "answer": "CHARGER"
+    },
+    {
+      "src": "/assets/electrics/COFFEE MACHINE.jpg",
+      "answer": "COFFEE MACHINE"
+    },
+    {
+      "src": "/assets/electrics/COMPUTER.jpg",
+      "answer": "COMPUTER"
+    },
+    {
+      "src": "/assets/electrics/COPY MACHINE.jpg",
+      "answer": "COPY MACHINE"
+    },
+    {
+      "src": "/assets/electrics/dishwasher.jpg",
+      "answer": "dishwasher"
+    },
+    {
+      "src": "/assets/electrics/Electric FAN.jpg",
+      "answer": "Electric FAN"
+    },
+    {
+      "src": "/assets/electrics/Food Processor.jpg",
+      "answer": "Food Processor"
+    },
+    {
+      "src": "/assets/electrics/HAIR CURLER.jpg",
+      "answer": "HAIR CURLER"
+    },
+    {
+      "src": "/assets/electrics/Headphones.jpg",
+      "answer": "Headphones"
+    },
+    {
+      "src": "/assets/electrics/Heat spreader.jpg",
+      "answer": "Heat spreader"
+    },
+    {
+      "src": "/assets/electrics/HEATER.jpg",
+      "answer": "HEATER"
+    },
+    {
+      "src": "/assets/electrics/IRONING MACHINE.jpg",
+      "answer": "IRONING MACHINE"
+    },
+    {
+      "src": "/assets/electrics/KETTLE.jpg",
+      "answer": "KETTLE"
+    },
+    {
+      "src": "/assets/electrics/Keyboard.jpg",
+      "answer": "Keyboard"
+    },
+    {
+      "src": "/assets/electrics/LAMB.jpg",
+      "answer": "LAMB"
+    },
+    {
+      "src": "/assets/electrics/Microwave.jpg",
+      "answer": "Microwave"
+    },
+    {
+      "src": "/assets/electrics/MIXER.jpg",
+      "answer": "MIXER"
+    },
+    {
+      "src": "/assets/electrics/OVEN.jpg",
+      "answer": "OVEN"
+    },
+    {
+      "src": "/assets/electrics/RADIATOR.jpg",
+      "answer": "RADIATOR"
+    },
+    {
+      "src": "/assets/electrics/RADIO.jpg",
+      "answer": "RADIO"
+    },
+    {
+      "src": "/assets/electrics/Refrigeration.jpg",
+      "answer": "Refrigeration"
+    },
+    {
+      "src": "/assets/electrics/ROBOT VACCUM.jpg",
+      "answer": "ROBOT VACCUM"
+    },
+    {
+      "src": "/assets/electrics/Sandwich Toaster.jpg",
+      "answer": "Sandwich Toaster"
+    },
+    {
+      "src": "/assets/electrics/Shaver.jpg",
+      "answer": "Shaver"
+    },
+    {
+      "src": "/assets/electrics/SOUND SPEAKER SYSTEM.jpg",
+      "answer": "SOUND SPEAKER SYSTEM"
+    },
+    {
+      "src": "/assets/electrics/STOVE.jpg",
+      "answer": "STOVE"
+    },
+    {
+      "src": "/assets/electrics/TAOSTER.jpg",
+      "answer": "TAOSTER"
+    },
+    {
+      "src": "/assets/electrics/TELEPHONE.jpg",
+      "answer": "TELEPHONE"
+    },
+    {
+      "src": "/assets/electrics/TOASTER OVEN.jpg",
+      "answer": "TOASTER OVEN"
+    },
+    {
+      "src": "/assets/electrics/VACCUM CLEANER.jpg",
+      "answer": "VACCUM CLEANER"
+    },
+    {
+      "src": "/assets/electrics/Washing Machine.jpg",
+      "answer": "Washing Machine"
+    },
+    {
+      "src": "/assets/electrics/WATER BAR.jpg",
+      "answer": "WATER BAR"
+    },
+    {
+      "src": "/assets/electrics/Wired Computer Mouse.jpg",
+      "answer": "Wired Computer Mouse"
+    }
+  ],
   "flags": [
     {
       "src": "/assets/flags/Argentina.jpg",
@@ -429,6 +583,242 @@
       "answer": "yellowchease"
     }
   ],
+  "hagim": [
+    {
+      "src": "/assets/hagim/arbakoso,.jpg",
+      "answer": "arbakoso,"
+    },
+    {
+      "src": "/assets/hagim/clown.jpg",
+      "answer": "clown"
+    },
+    {
+      "src": "/assets/hagim/degel.jpg",
+      "answer": "degel"
+    },
+    {
+      "src": "/assets/hagim/dmeihnuka.jpg",
+      "answer": "dmeihnuka"
+    },
+    {
+      "src": "/assets/hagim/donats.jpg",
+      "answer": "donats"
+    },
+    {
+      "src": "/assets/hagim/etrog.jpg",
+      "answer": "etrog"
+    },
+    {
+      "src": "/assets/hagim/halaagula.jpg",
+      "answer": "halaagula"
+    },
+    {
+      "src": "/assets/hagim/halatmafteach.jpg",
+      "answer": "halatmafteach"
+    },
+    {
+      "src": "/assets/hagim/hanukia.jpg",
+      "answer": "hanukia"
+    },
+    {
+      "src": "/assets/hagim/haroset.jpg",
+      "answer": "haroset"
+    },
+    {
+      "src": "/assets/hagim/harsinai.jpg",
+      "answer": "harsinai"
+    },
+    {
+      "src": "/assets/hagim/kadshemen.jpg",
+      "answer": "kadshemen"
+    },
+    {
+      "src": "/assets/hagim/kartisshanatova.jpg",
+      "answer": "kartisshanatova"
+    },
+    {
+      "src": "/assets/hagim/kearatleilhaseder.jpg",
+      "answer": "kearatleilhaseder"
+    },
+    {
+      "src": "/assets/hagim/kishutsuka.jpg",
+      "answer": "kishutsuka"
+    },
+    {
+      "src": "/assets/hagim/kitel.jpg",
+      "answer": "kitel"
+    },
+    {
+      "src": "/assets/hagim/kreplach.jpg",
+      "answer": "kreplach"
+    },
+    {
+      "src": "/assets/hagim/luchothabrit.jpg",
+      "answer": "luchothabrit"
+    },
+    {
+      "src": "/assets/hagim/lulav.jpg",
+      "answer": "lulav"
+    },
+    {
+      "src": "/assets/hagim/maachaleihalav.jpg",
+      "answer": "maachaleihalav"
+    },
+    {
+      "src": "/assets/hagim/masecha.jpg",
+      "answer": "masecha"
+    },
+    {
+      "src": "/assets/hagim/matzot.jpg",
+      "answer": "matzot"
+    },
+    {
+      "src": "/assets/hagim/megila.jpg",
+      "answer": "megila"
+    },
+    {
+      "src": "/assets/hagim/mishloachmanot.jpg",
+      "answer": "mishloachmanot"
+    },
+    {
+      "src": "/assets/hagim/ozneyhaman.jpg",
+      "answer": "ozneyhaman"
+    },
+    {
+      "src": "/assets/hagim/raashan.jpg",
+      "answer": "raashan"
+    },
+    {
+      "src": "/assets/hagim/rimon.jpg",
+      "answer": "rimon"
+    },
+    {
+      "src": "/assets/hagim/salbikurim.jpg",
+      "answer": "salbikurim"
+    },
+    {
+      "src": "/assets/hagim/sefertora.jpg",
+      "answer": "sefertora"
+    },
+    {
+      "src": "/assets/hagim/seudatpurim.jpg",
+      "answer": "seudatpurim"
+    },
+    {
+      "src": "/assets/hagim/sfinj.jpg",
+      "answer": "sfinj"
+    },
+    {
+      "src": "/assets/hagim/shofar.jpg",
+      "answer": "shofar"
+    },
+    {
+      "src": "/assets/hagim/srefathametz.jpg",
+      "answer": "srefathametz"
+    },
+    {
+      "src": "/assets/hagim/sufgania.jpg",
+      "answer": "sufgania"
+    },
+    {
+      "src": "/assets/hagim/suka.jpg",
+      "answer": "suka"
+    },
+    {
+      "src": "/assets/hagim/svivon.jpg",
+      "answer": "svivon"
+    },
+    {
+      "src": "/assets/hagim/tapuacinaonny.jpg",
+      "answer": "tapuacinaonny"
+    }
+  ],
+  "motag": [
+    {
+      "src": "/assets/motag/adidas.png",
+      "answer": "adidas"
+    },
+    {
+      "src": "/assets/motag/apple.png",
+      "answer": "apple"
+    },
+    {
+      "src": "/assets/motag/azrielimall.png",
+      "answer": "azrielimall"
+    },
+    {
+      "src": "/assets/motag/bneybrak.jpg",
+      "answer": "bneybrak"
+    },
+    {
+      "src": "/assets/motag/celvinklein.png",
+      "answer": "celvinklein"
+    },
+    {
+      "src": "/assets/motag/cocacola.png",
+      "answer": "cocacola"
+    },
+    {
+      "src": "/assets/motag/dirshu.jpg",
+      "answer": "dirshu"
+    },
+    {
+      "src": "/assets/motag/elit.png",
+      "answer": "elit"
+    },
+    {
+      "src": "/assets/motag/explorer.jpg",
+      "answer": "explorer"
+    },
+    {
+      "src": "/assets/motag/itvata.jpg",
+      "answer": "itvata"
+    },
+    {
+      "src": "/assets/motag/lacost.jpg",
+      "answer": "lacost"
+    },
+    {
+      "src": "/assets/motag/nike.png",
+      "answer": "nike"
+    },
+    {
+      "src": "/assets/motag/osem.png",
+      "answer": "osem"
+    },
+    {
+      "src": "/assets/motag/pepsi.png",
+      "answer": "pepsi"
+    },
+    {
+      "src": "/assets/motag/polo.jpg",
+      "answer": "polo"
+    },
+    {
+      "src": "/assets/motag/puma.png",
+      "answer": "puma"
+    },
+    {
+      "src": "/assets/motag/rachelH.jpg",
+      "answer": "rachelH"
+    },
+    {
+      "src": "/assets/motag/shtraus.jpg",
+      "answer": "shtraus"
+    },
+    {
+      "src": "/assets/motag/tnuva.jpg",
+      "answer": "tnuva"
+    },
+    {
+      "src": "/assets/motag/xiaomi.png",
+      "answer": "xiaomi"
+    },
+    {
+      "src": "/assets/motag/youtube.png",
+      "answer": "youtube"
+    }
+  ],
   "music": [
     {
       "src": "/assets/music/accordon.jpg",
@@ -577,6 +967,28 @@
     {
       "src": "/assets/music/Wirelessspeaker.jpg",
       "answer": "Wirelessspeaker"
+    }
+  ],
+  "rabanim": [
+    {
+      "src": "/assets/rabanim/gedelshtein.jpg",
+      "answer": "gedelshtein"
+    },
+    {
+      "src": "/assets/rabanim/haravelyashiv.jpg",
+      "answer": "haravelyashiv"
+    },
+    {
+      "src": "/assets/rabanim/kanievski.jpg",
+      "answer": "kanievski"
+    },
+    {
+      "src": "/assets/rabanim/shteiman.jpg",
+      "answer": "shteiman"
+    },
+    {
+      "src": "/assets/rabanim/yedelshtein.jpg",
+      "answer": "yedelshtein"
     }
   ]
 }
