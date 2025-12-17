@@ -34,6 +34,7 @@ export function BattleFloor({ battle, onEnd }) {
         const currentTime = prev[turn.id] - 1;
 
         if (currentTime <= 0) {
+          ended.current = true;
           clearInterval(timer);
           finishBattle();
           return prev;
@@ -96,14 +97,30 @@ export function BattleFloor({ battle, onEnd }) {
     setTimeout(nextImage, 600);
   };
 
-  const onNo = () => {
-    if (locked.current || ended.current) return;
+const onNo = () => {
+  if (locked.current || ended.current) return;
 
-    locked.current = true;
-    setShowAnswer(true);
+  locked.current = true;
 
-    setTimeout(nextImage, 600);
-  };
+  setTime((prev) => {
+    const newTime = prev[turn.id] - 3;
+
+    if (newTime <= 0) {
+      ended.current = true;
+      finishBattle();
+      return prev;
+    }
+
+    return {
+      ...prev,
+      [turn.id]: newTime,
+    };
+  });
+
+  setShowAnswer(true);
+  setTimeout(nextImage, 600);
+};
+
 
   // =============================
   // מקלדת
