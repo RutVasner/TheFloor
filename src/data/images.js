@@ -67,8 +67,107 @@ animals: [
 { src: "/assets/animals/SNAKE.jpg", answer: "נחש" },
 
 ],
+flags: [
+{ src: "/assets/flags/Argentina.jpg", answer: "ארגנטינה" },
+{ src: "/assets/flags/Austria.jpg", answer: "אוסטריה" },
+{ src: "/assets/flags/BELGIUM.jpg", answer: "בלגיה" },
+{ src: "/assets/flags/BRAZIL.jpg", answer: "ברזיל" },
+{ src: "/assets/flags/CANADA.jpg", answer: "קנדה" },
+{ src: "/assets/flags/CHINA.jpg", answer: "סין" },
+{ src: "/assets/flags/CROACIA.jpg", answer: "קרואטיה" },
+{ src: "/assets/flags/CYPRUS.jpg", answer: "קפריסין" },
+{ src: "/assets/flags/DENMARK.jpg", answer: "דנמרק" },
+{ src: "/assets/flags/DENMARK.jpg", answer: "ארגנטינה" },
+{ src: "/assets/flags/DENMARK.jpg", answer: "ארגנטינה" },
+{ src: "/assets/flags/DENMARK.jpg", answer: "ארגנטינה" },
+{ src: "/assets/flags/DENMARK.jpg", answer: "ארגנטינה" },
+{ src: "/assets/flags/DENMARK.jpg", answer: "ארגנטינה" },
+
+],
+
 holidays: [{ src: "/assets/holidays/football.jpg", answer: "כדורגל" }],
 geography: [{ src: "/assets/geography/israel.jpg", answer: "ישראל" }],
 history: [{ src: "/assets/history/pyramid.jpg", answer: "הפירמידות" }],
 music: [{ src: "/assets/music/piano.jpg", answer: "פסנתר" }]
 };
+
+import fs from "fs";
+import path from "path";
+
+// נתיב תיקיית הבסיס שלך (לדוגמה: public/assets)
+const baseDir = path.join(process.cwd(), "public/assets");
+
+// הקטגוריות שלך
+const categories = ["flags", "food"]; // אפשר להוסיף עוד
+
+// מילון תרגום לדוגמא (אפשר להרחיב)
+const translations = {
+  "Argentina": "ארגנטינה",
+  "Austria": "אוסטריה",
+  "BELGIUM": "בלגיה",
+  "BRAZIL": "ברזיל",
+  "CANADA": "קנדה",
+  "CHINA": "סין",
+  "CROACIA": "קרואטיה",
+  "CYPRUS": "קפריסין",
+  "DENMARK": "דנמרק",
+  "EGYPT": "מצרים",
+  "Estonia": "אסטוניה",
+  "Finland": "פינלנד",
+  "GEORGIA": "גאורגיה",
+  "GREECE": "יוון",
+  "INDIA": "הודו",
+  "IRELAND": "אירלנד",
+  "ISRAEL": "ישראל",
+  "ITALY": "איטליה",
+  "Japan": "יפן",
+  "LATVIA": "לטביה",
+  "LITHUANIA": "ליטא",
+  "Luxembourg": "לוקסמבורג",
+  "Malta": "מלטה",
+  "MEXICO": "מקסיקו",
+  "MONTENEGRO": "מונטנגרו",
+  "NETHERLAND": "הולנד",
+  "NORWAY": "נורווגיה",
+  "Portugal": "פורטוגל",
+  "RUSSIA": "רוסיה",
+  "SLOVAKIA": "סלובקיה",
+  "SLOVENIA": "סלובניה",
+  "SOUTH AFRICA": "דרום אפריקה",
+  "SOUTH KOREA": "דרום קוריאה",
+  "SPAIN": "ספרד",
+  "SWITZERLAND": "שווייץ",
+  "THAILAND": "תאילנד",
+  "Turkey": "טורקיה",
+  "UK": "הממלכה המאוחדת"
+};
+
+
+// פונקציה ליצירת מערך קטגוריה
+function createCategoryArray(category) {
+  const dirPath = path.join(baseDir, category);
+  if (!fs.existsSync(dirPath)) {
+    console.warn(`תיקייה לא קיימת: ${category}`);
+    return [];
+  }
+
+  const files = fs.readdirSync(dirPath);
+
+  return files.map(file => {
+    const nameWithoutExt = file.replace(/\.[^/.]+$/, "");
+    const answer = translations[nameWithoutExt] || nameWithoutExt;
+    return {
+      src: `/assets/${category}/${file}`,
+      answer
+    };
+  });
+}
+
+// יצירת מערכים לכל הקטגוריות
+const data = {};
+categories.forEach(cat => {
+  data[cat] = createCategoryArray(cat);
+});
+
+// אפשר גם לשמור לקובץ JSON:
+fs.writeFileSync("categories.json", JSON.stringify(data, null, 2), "utf-8");

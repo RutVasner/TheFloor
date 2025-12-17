@@ -1,0 +1,582 @@
+{
+  "animals": [
+    {
+      "src": "/assets/animals/BEAR.jpg",
+      "answer": "BEAR"
+    },
+    {
+      "src": "/assets/animals/Beaver.jpg",
+      "answer": "Beaver"
+    },
+    {
+      "src": "/assets/animals/CAMEL.jpg",
+      "answer": "CAMEL"
+    },
+    {
+      "src": "/assets/animals/CAT.jpg",
+      "answer": "CAT"
+    },
+    {
+      "src": "/assets/animals/COW.jpg",
+      "answer": "COW"
+    },
+    {
+      "src": "/assets/animals/CROCODDILE.jpg",
+      "answer": "CROCODDILE"
+    },
+    {
+      "src": "/assets/animals/deer.jpg",
+      "answer": "deer"
+    },
+    {
+      "src": "/assets/animals/DOLPHIN.jpeg",
+      "answer": "DOLPHIN"
+    },
+    {
+      "src": "/assets/animals/DONKEY.jpg",
+      "answer": "DONKEY"
+    },
+    {
+      "src": "/assets/animals/DUCK.jpg",
+      "answer": "DUCK"
+    },
+    {
+      "src": "/assets/animals/EAGLE.jpg",
+      "answer": "EAGLE"
+    },
+    {
+      "src": "/assets/animals/elephant.jpg",
+      "answer": "elephant"
+    },
+    {
+      "src": "/assets/animals/FLAMINGO.jpg",
+      "answer": "FLAMINGO"
+    },
+    {
+      "src": "/assets/animals/FOX.jpg",
+      "answer": "FOX"
+    },
+    {
+      "src": "/assets/animals/FROG.jpg",
+      "answer": "FROG"
+    },
+    {
+      "src": "/assets/animals/Giraffe.jpg",
+      "answer": "Giraffe"
+    },
+    {
+      "src": "/assets/animals/GOAT.jpg",
+      "answer": "GOAT"
+    },
+    {
+      "src": "/assets/animals/HAMSTER.jpeg",
+      "answer": "HAMSTER"
+    },
+    {
+      "src": "/assets/animals/Hedgehog.jpg",
+      "answer": "Hedgehog"
+    },
+    {
+      "src": "/assets/animals/Hippopotamus.jpg",
+      "answer": "Hippopotamus"
+    },
+    {
+      "src": "/assets/animals/horse.jpg",
+      "answer": "horse"
+    },
+    {
+      "src": "/assets/animals/KOALA.jpeg",
+      "answer": "KOALA"
+    },
+    {
+      "src": "/assets/animals/LION.jpeg",
+      "answer": "LION"
+    },
+    {
+      "src": "/assets/animals/MONKEY.jpg",
+      "answer": "MONKEY"
+    },
+    {
+      "src": "/assets/animals/ostrich.jpg",
+      "answer": "ostrich"
+    },
+    {
+      "src": "/assets/animals/OTTER.jpg",
+      "answer": "OTTER"
+    },
+    {
+      "src": "/assets/animals/PANDA.jpeg",
+      "answer": "PANDA"
+    },
+    {
+      "src": "/assets/animals/PENGUIN.jpg",
+      "answer": "PENGUIN"
+    },
+    {
+      "src": "/assets/animals/PIG.jpg",
+      "answer": "PIG"
+    },
+    {
+      "src": "/assets/animals/RABBIT.jpg",
+      "answer": "RABBIT"
+    },
+    {
+      "src": "/assets/animals/RACOON.jpg",
+      "answer": "RACOON"
+    },
+    {
+      "src": "/assets/animals/ROOSTER.jpg",
+      "answer": "ROOSTER"
+    },
+    {
+      "src": "/assets/animals/SHARK.jpg",
+      "answer": "SHARK"
+    },
+    {
+      "src": "/assets/animals/SHEEP.jpg",
+      "answer": "SHEEP"
+    },
+    {
+      "src": "/assets/animals/SKUNK.jpg",
+      "answer": "SKUNK"
+    },
+    {
+      "src": "/assets/animals/SNAKE.jpg",
+      "answer": "SNAKE"
+    },
+    {
+      "src": "/assets/animals/squirrel.jpeg",
+      "answer": "squirrel"
+    },
+    {
+      "src": "/assets/animals/WOLF.jpeg",
+      "answer": "WOLF"
+    },
+    {
+      "src": "/assets/animals/ZEBRA.jpeg",
+      "answer": "ZEBRA"
+    }
+  ],
+  "flags": [
+    {
+      "src": "/assets/flags/Argentina.jpg",
+      "answer": "Argentina"
+    },
+    {
+      "src": "/assets/flags/Austria.jpg",
+      "answer": "Austria"
+    },
+    {
+      "src": "/assets/flags/BELGIUM.jpg",
+      "answer": "BELGIUM"
+    },
+    {
+      "src": "/assets/flags/BRAZIL.jpg",
+      "answer": "BRAZIL"
+    },
+    {
+      "src": "/assets/flags/CANADA.jpg",
+      "answer": "CANADA"
+    },
+    {
+      "src": "/assets/flags/CHINA.jpg",
+      "answer": "CHINA"
+    },
+    {
+      "src": "/assets/flags/CROACIA.jpg",
+      "answer": "CROACIA"
+    },
+    {
+      "src": "/assets/flags/CYPRUS.jpg",
+      "answer": "CYPRUS"
+    },
+    {
+      "src": "/assets/flags/DENMARK.jpg",
+      "answer": "DENMARK"
+    },
+    {
+      "src": "/assets/flags/EGYPT.jpg",
+      "answer": "EGYPT"
+    },
+    {
+      "src": "/assets/flags/Estonia.jpg",
+      "answer": "Estonia"
+    },
+    {
+      "src": "/assets/flags/Finland.jpg",
+      "answer": "Finland"
+    },
+    {
+      "src": "/assets/flags/GEORGIA.jpg",
+      "answer": "GEORGIA"
+    },
+    {
+      "src": "/assets/flags/GREECE.jpg",
+      "answer": "GREECE"
+    },
+    {
+      "src": "/assets/flags/INDIA.jpg",
+      "answer": "INDIA"
+    },
+    {
+      "src": "/assets/flags/IRELAND.jpg",
+      "answer": "IRELAND"
+    },
+    {
+      "src": "/assets/flags/ISRAEL.jpg",
+      "answer": "ISRAEL"
+    },
+    {
+      "src": "/assets/flags/ITALY.jpg",
+      "answer": "ITALY"
+    },
+    {
+      "src": "/assets/flags/Japan.jpg",
+      "answer": "Japan"
+    },
+    {
+      "src": "/assets/flags/LATVIA.jpg",
+      "answer": "LATVIA"
+    },
+    {
+      "src": "/assets/flags/LITHUANIA.jpg",
+      "answer": "LITHUANIA"
+    },
+    {
+      "src": "/assets/flags/Luxembourg.jpg",
+      "answer": "Luxembourg"
+    },
+    {
+      "src": "/assets/flags/Malta.jpg",
+      "answer": "Malta"
+    },
+    {
+      "src": "/assets/flags/MEXICO.jpg",
+      "answer": "MEXICO"
+    },
+    {
+      "src": "/assets/flags/MONTENEGRO.jpg",
+      "answer": "MONTENEGRO"
+    },
+    {
+      "src": "/assets/flags/NETHERLAND.jpg",
+      "answer": "NETHERLAND"
+    },
+    {
+      "src": "/assets/flags/NORWAY.jpg",
+      "answer": "NORWAY"
+    },
+    {
+      "src": "/assets/flags/Portugal.jpg",
+      "answer": "Portugal"
+    },
+    {
+      "src": "/assets/flags/RUSSIA.jpg",
+      "answer": "RUSSIA"
+    },
+    {
+      "src": "/assets/flags/SLOVAKIA.jpg",
+      "answer": "SLOVAKIA"
+    },
+    {
+      "src": "/assets/flags/SLOVENIA.jpg",
+      "answer": "SLOVENIA"
+    },
+    {
+      "src": "/assets/flags/SOUTH AFRICA.jpg",
+      "answer": "SOUTH AFRICA"
+    },
+    {
+      "src": "/assets/flags/SOUTH KOREA.jpg",
+      "answer": "SOUTH KOREA"
+    },
+    {
+      "src": "/assets/flags/SPAIN.jpg",
+      "answer": "SPAIN"
+    },
+    {
+      "src": "/assets/flags/SWITZERLAND.jpg",
+      "answer": "SWITZERLAND"
+    },
+    {
+      "src": "/assets/flags/THAILAND.jpg",
+      "answer": "THAILAND"
+    },
+    {
+      "src": "/assets/flags/Turkey.jpg",
+      "answer": "Turkey"
+    },
+    {
+      "src": "/assets/flags/UK.jpg",
+      "answer": "UK"
+    }
+  ],
+  "food": [
+    {
+      "src": "/assets/food/bolonez.jpg",
+      "answer": "bolonez"
+    },
+    {
+      "src": "/assets/food/bread.jpg",
+      "answer": "bread"
+    },
+    {
+      "src": "/assets/food/chease.jpg",
+      "answer": "chease"
+    },
+    {
+      "src": "/assets/food/eggSalad.jpg",
+      "answer": "eggSalad"
+    },
+    {
+      "src": "/assets/food/eshel.jpg",
+      "answer": "eshel"
+    },
+    {
+      "src": "/assets/food/humusbasar.jpg",
+      "answer": "humusbasar"
+    },
+    {
+      "src": "/assets/food/icecream.jpg",
+      "answer": "icecream"
+    },
+    {
+      "src": "/assets/food/kuskus.jpg",
+      "answer": "kuskus"
+    },
+    {
+      "src": "/assets/food/lazanya.jpg",
+      "answer": "lazanya"
+    },
+    {
+      "src": "/assets/food/mahpotato.jpg",
+      "answer": "mahpotato"
+    },
+    {
+      "src": "/assets/food/majadra.jpg",
+      "answer": "majadra"
+    },
+    {
+      "src": "/assets/food/marokayfish.jpg",
+      "answer": "marokayfish"
+    },
+    {
+      "src": "/assets/food/meatbolls.jpg",
+      "answer": "meatbolls"
+    },
+    {
+      "src": "/assets/food/musaka.jpg",
+      "answer": "musaka"
+    },
+    {
+      "src": "/assets/food/napolyoncake.jpg",
+      "answer": "napolyoncake"
+    },
+    {
+      "src": "/assets/food/omlet.jpg",
+      "answer": "omlet"
+    },
+    {
+      "src": "/assets/food/piza.jpg",
+      "answer": "piza"
+    },
+    {
+      "src": "/assets/food/rice.jpg",
+      "answer": "rice"
+    },
+    {
+      "src": "/assets/food/shakshuka.jpg",
+      "answer": "shakshuka"
+    },
+    {
+      "src": "/assets/food/shipudim.jpg",
+      "answer": "shipudim"
+    },
+    {
+      "src": "/assets/food/shnitzel.jpg",
+      "answer": "shnitzel"
+    },
+    {
+      "src": "/assets/food/shuarma.jpg",
+      "answer": "shuarma"
+    },
+    {
+      "src": "/assets/food/sosegeinroll.jpg",
+      "answer": "sosegeinroll"
+    },
+    {
+      "src": "/assets/food/soup.jpg",
+      "answer": "soup"
+    },
+    {
+      "src": "/assets/food/Stirfriedvegetables.jpg",
+      "answer": "Stirfriedvegetables"
+    },
+    {
+      "src": "/assets/food/sushi.jpg",
+      "answer": "sushi"
+    },
+    {
+      "src": "/assets/food/tako.jpg",
+      "answer": "tako"
+    },
+    {
+      "src": "/assets/food/wippedcream.jpg",
+      "answer": "wippedcream"
+    },
+    {
+      "src": "/assets/food/yellowchease.jpg",
+      "answer": "yellowchease"
+    }
+  ],
+  "music": [
+    {
+      "src": "/assets/music/accordon.jpg",
+      "answer": "accordon"
+    },
+    {
+      "src": "/assets/music/Amplificationequipment.jpg",
+      "answer": "Amplificationequipment"
+    },
+    {
+      "src": "/assets/music/caletet.jpg",
+      "answer": "caletet"
+    },
+    {
+      "src": "/assets/music/chalilit.jpg",
+      "answer": "chalilit"
+    },
+    {
+      "src": "/assets/music/chelo.jpg",
+      "answer": "chelo"
+    },
+    {
+      "src": "/assets/music/Derbake.jpg",
+      "answer": "Derbake"
+    },
+    {
+      "src": "/assets/music/disc.jpg",
+      "answer": "disc"
+    },
+    {
+      "src": "/assets/music/djstaton.jpg",
+      "answer": "djstaton"
+    },
+    {
+      "src": "/assets/music/drums.jpg",
+      "answer": "drums"
+    },
+    {
+      "src": "/assets/music/electriicguitaar.jpg",
+      "answer": "electriicguitaar"
+    },
+    {
+      "src": "/assets/music/guiter.jpg",
+      "answer": "guiter"
+    },
+    {
+      "src": "/assets/music/kachon.jpg",
+      "answer": "kachon"
+    },
+    {
+      "src": "/assets/music/kanon.jpg",
+      "answer": "kanon"
+    },
+    {
+      "src": "/assets/music/klarinet.jpg",
+      "answer": "klarinet"
+    },
+    {
+      "src": "/assets/music/mandolina.jpg",
+      "answer": "mandolina"
+    },
+    {
+      "src": "/assets/music/mapuchit.jpg",
+      "answer": "mapuchit"
+    },
+    {
+      "src": "/assets/music/melodica.jpg",
+      "answer": "melodica"
+    },
+    {
+      "src": "/assets/music/meshulash.jpg",
+      "answer": "meshulash"
+    },
+    {
+      "src": "/assets/music/metziltaim.jpg",
+      "answer": "metziltaim"
+    },
+    {
+      "src": "/assets/music/microfone.jpg",
+      "answer": "microfone"
+    },
+    {
+      "src": "/assets/music/mixer.jpg",
+      "answer": "mixer"
+    },
+    {
+      "src": "/assets/music/nevel.jpg",
+      "answer": "nevel"
+    },
+    {
+      "src": "/assets/music/notebook.jpg",
+      "answer": "notebook"
+    },
+    {
+      "src": "/assets/music/notekey.png",
+      "answer": "notekey"
+    },
+    {
+      "src": "/assets/music/notes.jpg",
+      "answer": "notes"
+    },
+    {
+      "src": "/assets/music/organt.jpg",
+      "answer": "organt"
+    },
+    {
+      "src": "/assets/music/ozniot.jpg",
+      "answer": "ozniot"
+    },
+    {
+      "src": "/assets/music/patifon.jpg",
+      "answer": "patifon"
+    },
+    {
+      "src": "/assets/music/piano.jpg",
+      "answer": "piano"
+    },
+    {
+      "src": "/assets/music/record.jpg",
+      "answer": "record"
+    },
+    {
+      "src": "/assets/music/recordulpan.jpg",
+      "answer": "recordulpan"
+    },
+    {
+      "src": "/assets/music/saxofon.jpg",
+      "answer": "saxofon"
+    },
+    {
+      "src": "/assets/music/Tambourine.jpg",
+      "answer": "Tambourine"
+    },
+    {
+      "src": "/assets/music/trombon.jpg",
+      "answer": "trombon"
+    },
+    {
+      "src": "/assets/music/trumpet.jpg",
+      "answer": "trumpet"
+    },
+    {
+      "src": "/assets/music/violin.jpg",
+      "answer": "violin"
+    },
+    {
+      "src": "/assets/music/Wirelessspeaker.jpg",
+      "answer": "Wirelessspeaker"
+    }
+  ]
+}
