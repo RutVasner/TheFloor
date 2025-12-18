@@ -31,7 +31,7 @@ const onBattleEnd = (winner, loser,p1Topic) => {
   debugger;
   setBoard((prev) =>
     prev.map((tile) =>
-      tile.ownerId === loser.ownerId
+      tile.ownerId === loser.ownerId||loser.ownerId===tile.id
         ? {
             ...tile,
             ownerId: winner.ownerId,
