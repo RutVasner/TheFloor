@@ -1,10 +1,8 @@
 import { useEffect, useState } from "react";
-import { imageMap } from "../data/images";
 
 export function BattleFloor({ battle, onEnd }) {
   const { p1, p2, topic } = battle;
-  const images = imageMap[topic] || [];
-
+  const [images, setImages] = useState([]);
   const [index, setIndex] = useState(0);
   const [turn, setTurn] = useState(p1); // השחקן הפעיל
   const [showAnswer, setShowAnswer] = useState(false);
@@ -17,6 +15,15 @@ export function BattleFloor({ battle, onEnd }) {
   const [ended, setEnded] = useState(false);
   const [locked, setLocked] = useState(false);
 
+    useEffect(() => {
+    fetch("/imageMap.json")
+      .then(res => res.json())
+      .then(data => {
+        setImages(data[topic] || []);
+      })
+      .catch(err => console.error("Failed to load image map:", err));
+  }, [topic]);
+  
   // =============================
   // טיימר
   // =============================
