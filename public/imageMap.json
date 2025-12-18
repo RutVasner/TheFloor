@@ -707,10 +707,6 @@
     {
       "src": "/assets/fashion/watch.jpg",
       "answer": "watch"
-    },
-    {
-      "src": "/assets/fashion/דביםםךנשע.jpg",
-      "answer": "דביםםךנשע"
     }
   ],
   "flags": [
@@ -1581,18 +1577,374 @@
       "answer": "Wirelessspeaker"
     }
   ],
+  "nature": [
+    {
+      "src": "/assets/nature/aleishalechet.jpg",
+      "answer": "aleishalechet"
+    },
+    {
+      "src": "/assets/nature/barak.jpg",
+      "answer": "barak"
+    },
+    {
+      "src": "/assets/nature/beach.jpg",
+      "answer": "beach"
+    },
+    {
+      "src": "/assets/nature/bush.jpg",
+      "answer": "bush"
+    },
+    {
+      "src": "/assets/nature/butterfly.jpg",
+      "answer": "butterfly"
+    },
+    {
+      "src": "/assets/nature/cave.jpg",
+      "answer": "cave"
+    },
+    {
+      "src": "/assets/nature/desert.jpg",
+      "answer": "desert"
+    },
+    {
+      "src": "/assets/nature/flower.jpg",
+      "answer": "flower"
+    },
+    {
+      "src": "/assets/nature/forest.jpg",
+      "answer": "forest"
+    },
+    {
+      "src": "/assets/nature/grass.jpg",
+      "answer": "grass"
+    },
+    {
+      "src": "/assets/nature/ice.jpg",
+      "answer": "ice"
+    },
+    {
+      "src": "/assets/nature/keshet.jpg",
+      "answer": "keshet"
+    },
+    {
+      "src": "/assets/nature/lake.jpg",
+      "answer": "lake"
+    },
+    {
+      "src": "/assets/nature/land.jpg",
+      "answer": "land"
+    },
+    {
+      "src": "/assets/nature/leave.jpg",
+      "answer": "leave"
+    },
+    {
+      "src": "/assets/nature/moon.jpg",
+      "answer": "moon"
+    },
+    {
+      "src": "/assets/nature/mountain.jpg",
+      "answer": "mountain"
+    },
+    {
+      "src": "/assets/nature/netifim.jpg",
+      "answer": "netifim"
+    },
+    {
+      "src": "/assets/nature/pardes.jpg",
+      "answer": "pardes"
+    },
+    {
+      "src": "/assets/nature/river.jpg",
+      "answer": "river"
+    },
+    {
+      "src": "/assets/nature/sea.jpg",
+      "answer": "sea"
+    },
+    {
+      "src": "/assets/nature/sky.jpg",
+      "answer": "sky"
+    },
+    {
+      "src": "/assets/nature/snow.jpg",
+      "answer": "snow"
+    },
+    {
+      "src": "/assets/nature/stars.jpg",
+      "answer": "stars"
+    },
+    {
+      "src": "/assets/nature/sun.jpg",
+      "answer": "sun"
+    },
+    {
+      "src": "/assets/nature/sunrise.jpg",
+      "answer": "sunrise"
+    },
+    {
+      "src": "/assets/nature/sunset.jpg",
+      "answer": "sunset"
+    },
+    {
+      "src": "/assets/nature/tree.jpg",
+      "answer": "tree"
+    },
+    {
+      "src": "/assets/nature/tzdafim.jpg",
+      "answer": "tzdafim"
+    },
+    {
+      "src": "/assets/nature/volcano.jpg",
+      "answer": "volcano"
+    },
+    {
+      "src": "/assets/nature/waterfall.jpg",
+      "answer": "waterfall"
+    },
+    {
+      "src": "/assets/nature/waves.jpg",
+      "answer": "waves"
+    }
+  ],
+  "onroad": [
+    {
+      "src": "/assets/onroad/airplane.jpg",
+      "answer": "airplane"
+    },
+    {
+      "src": "/assets/onroad/ambulance.jpg",
+      "answer": "ambulance"
+    },
+    {
+      "src": "/assets/onroad/bike.jpg",
+      "answer": "bike"
+    },
+    {
+      "src": "/assets/onroad/boat.jpg",
+      "answer": "boat"
+    },
+    {
+      "src": "/assets/onroad/bridge.jpg",
+      "answer": "bridge"
+    },
+    {
+      "src": "/assets/onroad/bus.jpg",
+      "answer": "bus"
+    },
+    {
+      "src": "/assets/onroad/busstation.jpg",
+      "answer": "busstation"
+    },
+    {
+      "src": "/assets/onroad/cargotrain.jpg",
+      "answer": "cargotrain"
+    },
+    {
+      "src": "/assets/onroad/firetruck.jpg",
+      "answer": "firetruck"
+    },
+    {
+      "src": "/assets/onroad/Garcigetruck.jpg",
+      "answer": "Garcigetruck"
+    },
+    {
+      "src": "/assets/onroad/hatzala.jpg",
+      "answer": "hatzala"
+    },
+    {
+      "src": "/assets/onroad/helicopter.jpg",
+      "answer": "helicopter"
+    },
+    {
+      "src": "/assets/onroad/helmet.jpg",
+      "answer": "helmet"
+    },
+    {
+      "src": "/assets/onroad/kavhafrada.jpg",
+      "answer": "kavhafrada"
+    },
+    {
+      "src": "/assets/onroad/maavarchtzia.jpg",
+      "answer": "maavarchtzia"
+    },
+    {
+      "src": "/assets/onroad/motorcycle.jpg",
+      "answer": "motorcycle"
+    },
+    {
+      "src": "/assets/onroad/paseihaata.jpg",
+      "answer": "paseihaata"
+    },
+    {
+      "src": "/assets/onroad/policecar.jpg",
+      "answer": "policecar"
+    },
+    {
+      "src": "/assets/onroad/privateplane.jpg",
+      "answer": "privateplane"
+    },
+    {
+      "src": "/assets/onroad/rakebel.jpg",
+      "answer": "rakebel"
+    },
+    {
+      "src": "/assets/onroad/redcar.jpg",
+      "answer": "redcar"
+    },
+    {
+      "src": "/assets/onroad/road.jpg",
+      "answer": "road"
+    },
+    {
+      "src": "/assets/onroad/schoolbus.jpg",
+      "answer": "schoolbus"
+    },
+    {
+      "src": "/assets/onroad/ship.jpg",
+      "answer": "ship"
+    },
+    {
+      "src": "/assets/onroad/stopsign.jpg",
+      "answer": "stopsign"
+    },
+    {
+      "src": "/assets/onroad/taxi.jpg",
+      "answer": "taxi"
+    },
+    {
+      "src": "/assets/onroad/tipulnimratz.jpg",
+      "answer": "tipulnimratz"
+    },
+    {
+      "src": "/assets/onroad/trafficjam.jpg",
+      "answer": "trafficjam"
+    },
+    {
+      "src": "/assets/onroad/traficlight.jpg",
+      "answer": "traficlight"
+    },
+    {
+      "src": "/assets/onroad/train.jpg",
+      "answer": "train"
+    },
+    {
+      "src": "/assets/onroad/trainstation.jpg",
+      "answer": "trainstation"
+    },
+    {
+      "src": "/assets/onroad/truck.jpg",
+      "answer": "truck"
+    },
+    {
+      "src": "/assets/onroad/twofloorsbus.jpg",
+      "answer": "twofloorsbus"
+    }
+  ],
   "rabanim": [
+    {
+      "src": "/assets/rabanim/admor migur.jpg",
+      "answer": "admor migur"
+    },
+    {
+      "src": "/assets/rabanim/benishchai.jpg",
+      "answer": "benishchai"
+    },
+    {
+      "src": "/assets/rabanim/btzashaul.jpg",
+      "answer": "btzashaul"
+    },
+    {
+      "src": "/assets/rabanim/desler.jpg",
+      "answer": "desler"
+    },
     {
       "src": "/assets/rabanim/gedelshtein.jpg",
       "answer": "gedelshtein"
+    },
+    {
+      "src": "/assets/rabanim/grosbard.jpg",
+      "answer": "grosbard"
+    },
+    {
+      "src": "/assets/rabanim/habasali.jpg",
+      "answer": "habasali"
+    },
+    {
+      "src": "/assets/rabanim/hafetzhaim.jpg",
+      "answer": "hafetzhaim"
     },
     {
       "src": "/assets/rabanim/haravelyashiv.jpg",
       "answer": "haravelyashiv"
     },
     {
+      "src": "/assets/rabanim/haravshach.jpg",
+      "answer": "haravshach"
+    },
+    {
+      "src": "/assets/rabanim/harvovadia.jpg",
+      "answer": "harvovadia"
+    },
+    {
+      "src": "/assets/rabanim/hastaypeler.jpg",
+      "answer": "hastaypeler"
+    },
+    {
+      "src": "/assets/rabanim/hatamsofer.jpg",
+      "answer": "hatamsofer"
+    },
+    {
       "src": "/assets/rabanim/kanievski.jpg",
       "answer": "kanievski"
+    },
+    {
+      "src": "/assets/rabanim/rdavidabuchaztira.jpg",
+      "answer": "rdavidabuchaztira"
+    },
+    {
+      "src": "/assets/rabanim/rdovkuk.jpg",
+      "answer": "rdovkuk"
+    },
+    {
+      "src": "/assets/rabanim/rdovlando.jpg",
+      "answer": "rdovlando"
+    },
+    {
+      "src": "/assets/rabanim/rezrachi.jpg",
+      "answer": "rezrachi"
+    },
+    {
+      "src": "/assets/rabanim/rfainshtein.jpg",
+      "answer": "rfainshtein"
+    },
+    {
+      "src": "/assets/rabanim/rhirsh.jpg",
+      "answer": "rhirsh"
+    },
+    {
+      "src": "/assets/rabanim/rigalkohen.jpg",
+      "answer": "rigalkohen"
+    },
+    {
+      "src": "/assets/rabanim/rlubavich.jpg",
+      "answer": "rlubavich"
+    },
+    {
+      "src": "/assets/rabanim/rmordechaieliyhu.jpg",
+      "answer": "rmordechaieliyhu"
+    },
+    {
+      "src": "/assets/rabanim/rshlomoamar.jpg",
+      "answer": "rshlomoamar"
+    },
+    {
+      "src": "/assets/rabanim/rshzoeirbaach.jpg",
+      "answer": "rshzoeirbaach"
+    },
+    {
+      "src": "/assets/rabanim/ryoramabargel.jpg",
+      "answer": "ryoramabargel"
     },
     {
       "src": "/assets/rabanim/shteiman.jpg",
@@ -1601,6 +1953,164 @@
     {
       "src": "/assets/rabanim/yedelshtein.jpg",
       "answer": "yedelshtein"
+    },
+    {
+      "src": "/assets/rabanim/zilberstain.jpg",
+      "answer": "zilberstain"
+    }
+  ],
+  "school": [
+    {
+      "src": "/assets/school/Backpacks.jpg",
+      "answer": "Backpacks"
+    },
+    {
+      "src": "/assets/school/BALL.jpg",
+      "answer": "BALL"
+    },
+    {
+      "src": "/assets/school/BOOKS.jpg",
+      "answer": "BOOKS"
+    },
+    {
+      "src": "/assets/school/CALCULATOR.jpg",
+      "answer": "CALCULATOR"
+    },
+    {
+      "src": "/assets/school/CALENDER.jpg",
+      "answer": "CALENDER"
+    },
+    {
+      "src": "/assets/school/calipers.jpg",
+      "answer": "calipers"
+    },
+    {
+      "src": "/assets/school/CARYONS.jpg",
+      "answer": "CARYONS"
+    },
+    {
+      "src": "/assets/school/CLASS DIARY.jpg",
+      "answer": "CLASS DIARY"
+    },
+    {
+      "src": "/assets/school/CLASSROOM.jpg",
+      "answer": "CLASSROOM"
+    },
+    {
+      "src": "/assets/school/COLOR PENCILS.jpg",
+      "answer": "COLOR PENCILS"
+    },
+    {
+      "src": "/assets/school/EARASER.jpg",
+      "answer": "EARASER"
+    },
+    {
+      "src": "/assets/school/FOLDER.jpg",
+      "answer": "FOLDER"
+    },
+    {
+      "src": "/assets/school/FOOD BOX.jpg",
+      "answer": "FOOD BOX"
+    },
+    {
+      "src": "/assets/school/GLUE STICK.jpg",
+      "answer": "GLUE STICK"
+    },
+    {
+      "src": "/assets/school/JOT GLUE GUN.jpg",
+      "answer": "JOT GLUE GUN"
+    },
+    {
+      "src": "/assets/school/LIBRARY.jpg",
+      "answer": "LIBRARY"
+    },
+    {
+      "src": "/assets/school/MARKER.jpg",
+      "answer": "MARKER"
+    },
+    {
+      "src": "/assets/school/MATH NOTEBOOK.jpg",
+      "answer": "MATH NOTEBOOK"
+    },
+    {
+      "src": "/assets/school/MECHANIC PENCIL.jpg",
+      "answer": "MECHANIC PENCIL"
+    },
+    {
+      "src": "/assets/school/NOTEBOOK.jpg",
+      "answer": "NOTEBOOK"
+    },
+    {
+      "src": "/assets/school/PEN.jpg",
+      "answer": "PEN"
+    },
+    {
+      "src": "/assets/school/PENCIL CASE.jpg",
+      "answer": "PENCIL CASE"
+    },
+    {
+      "src": "/assets/school/PENCIL.jpg",
+      "answer": "PENCIL"
+    },
+    {
+      "src": "/assets/school/ROPE.jpg",
+      "answer": "ROPE"
+    },
+    {
+      "src": "/assets/school/RULER.jpg",
+      "answer": "RULER"
+    },
+    {
+      "src": "/assets/school/SCHOOL CORRIDOR.jpg",
+      "answer": "SCHOOL CORRIDOR"
+    },
+    {
+      "src": "/assets/school/SCISSORS.jpg",
+      "answer": "SCISSORS"
+    },
+    {
+      "src": "/assets/school/SHERPNER.jpg",
+      "answer": "SHERPNER"
+    },
+    {
+      "src": "/assets/school/STAPLER.jpg",
+      "answer": "STAPLER"
+    },
+    {
+      "src": "/assets/school/STICKY NOTES.jpg",
+      "answer": "STICKY NOTES"
+    },
+    {
+      "src": "/assets/school/STUDENT CHAIR.jpg",
+      "answer": "STUDENT CHAIR"
+    },
+    {
+      "src": "/assets/school/TEACHER CHAIR.jpg",
+      "answer": "TEACHER CHAIR"
+    },
+    {
+      "src": "/assets/school/Teacher.jpg",
+      "answer": "Teacher"
+    },
+    {
+      "src": "/assets/school/TORAH NOTEBOOK.jpg",
+      "answer": "TORAH NOTEBOOK"
+    },
+    {
+      "src": "/assets/school/WATER BOTTLE.jpg",
+      "answer": "WATER BOTTLE"
+    },
+    {
+      "src": "/assets/school/Whiteboard Eraser.jpg",
+      "answer": "Whiteboard Eraser"
+    },
+    {
+      "src": "/assets/school/WHITEBOARD MARKER.jpg",
+      "answer": "WHITEBOARD MARKER"
+    },
+    {
+      "src": "/assets/school/WHITEBOARD.jpg",
+      "answer": "WHITEBOARD"
     }
   ]
 }
