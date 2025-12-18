@@ -27,7 +27,7 @@ const onTileClick = (tile) => {
 };
 
 
-const onBattleEnd = (winner, loser) => {
+const onBattleEnd = (winner, loser,p1Topic) => {
   debugger;
   setBoard((prev) =>
     prev.map((tile) =>
@@ -36,7 +36,7 @@ const onBattleEnd = (winner, loser) => {
             ...tile,
             ownerId: winner.ownerId,
             name: winner.name,
-            topic: winner.topic,
+            topic: p1Topic,
             color: winner.color,
           }
         : tile

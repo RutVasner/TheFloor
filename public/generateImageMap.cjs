@@ -18,7 +18,7 @@ categories.forEach((cat) => {
     
     const name = path.parse(file).name; // בלי סיומת
     console.log(t[name], "trans");
-    debugger;
+    // debugger;
     return {
       src: `/assets/${cat}/${file}`,
       answer: t[name] || name, // אם אין תרגום, נשאיר באנגלית
