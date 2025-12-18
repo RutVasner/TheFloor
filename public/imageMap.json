@@ -157,6 +157,282 @@
       "answer": "ZEBRA"
     }
   ],
+  "babies": [
+    {
+      "src": "/assets/babies/agalatlul.jpg",
+      "answer": "agalatlul"
+    },
+    {
+      "src": "/assets/babies/arias.jpg",
+      "answer": "arias"
+    },
+    {
+      "src": "/assets/babies/babybath.jpg",
+      "answer": "babybath"
+    },
+    {
+      "src": "/assets/babies/babygro.jpg",
+      "answer": "babygro"
+    },
+    {
+      "src": "/assets/babies/bakbuk.jpg",
+      "answer": "bakbuk"
+    },
+    {
+      "src": "/assets/babies/chitul.jpg",
+      "answer": "chitul"
+    },
+    {
+      "src": "/assets/babies/dafny.jpg",
+      "answer": "dafny"
+    },
+    {
+      "src": "/assets/babies/dona.jpg",
+      "answer": "dona"
+    },
+    {
+      "src": "/assets/babies/eglatshchiva.jpg",
+      "answer": "eglatshchiva"
+    },
+    {
+      "src": "/assets/babies/highcair.jpg",
+      "answer": "highcair"
+    },
+    {
+      "src": "/assets/babies/kova.jpg",
+      "answer": "kova"
+    },
+    {
+      "src": "/assets/babies/machzikmotzetz.jpg",
+      "answer": "machzikmotzetz"
+    },
+    {
+      "src": "/assets/babies/madchom.jpg",
+      "answer": "madchom"
+    },
+    {
+      "src": "/assets/babies/magenrosh.jpg",
+      "answer": "magenrosh"
+    },
+    {
+      "src": "/assets/babies/magvoni,.jpg",
+      "answer": "magvoni,"
+    },
+    {
+      "src": "/assets/babies/masheva.jpg",
+      "answer": "masheva"
+    },
+    {
+      "src": "/assets/babies/mechalekmanot.jpg",
+      "answer": "mechalekmanot"
+    },
+    {
+      "src": "/assets/babies/mechamembakbuk.jpg",
+      "answer": "mechamembakbuk"
+    },
+    {
+      "src": "/assets/babies/minsa.jpg",
+      "answer": "minsa"
+    },
+    {
+      "src": "/assets/babies/mishchathachtala.jpg",
+      "answer": "mishchathachtala"
+    },
+    {
+      "src": "/assets/babies/mobail.jpg",
+      "answer": "mobail"
+    },
+    {
+      "src": "/assets/babies/montor.jpg",
+      "answer": "montor"
+    },
+    {
+      "src": "/assets/babies/motzetz.jpg",
+      "answer": "motzetz"
+    },
+    {
+      "src": "/assets/babies/nashchan.jpg",
+      "answer": "nashchan"
+    },
+    {
+      "src": "/assets/babies/pitmatbakbuk.jpg",
+      "answer": "pitmatbakbuk"
+    },
+    {
+      "src": "/assets/babies/salkal.jpg",
+      "answer": "salkal"
+    },
+    {
+      "src": "/assets/babies/shidathchtala.jpg",
+      "answer": "shidathchtala"
+    },
+    {
+      "src": "/assets/babies/sinar.jpg",
+      "answer": "sinar"
+    },
+    {
+      "src": "/assets/babies/smichattink.jpg",
+      "answer": "smichattink"
+    },
+    {
+      "src": "/assets/babies/sterilizator.jpg",
+      "answer": "sterilizator"
+    },
+    {
+      "src": "/assets/babies/tamal.jpg",
+      "answer": "tamal"
+    },
+    {
+      "src": "/assets/babies/titulim.jpg",
+      "answer": "titulim"
+    },
+    {
+      "src": "/assets/babies/tiulon.jpg",
+      "answer": "tiulon"
+    },
+    {
+      "src": "/assets/babies/tkhachtala.jpg",
+      "answer": "tkhachtala"
+    }
+  ],
+  "bakery": [
+    {
+      "src": "/assets/bakery/akler.jpg",
+      "answer": "akler"
+    },
+    {
+      "src": "/assets/bakery/bagel.jpg",
+      "answer": "bagel"
+    },
+    {
+      "src": "/assets/bakery/baget.jpg",
+      "answer": "baget"
+    },
+    {
+      "src": "/assets/bakery/belgiwafel.jpg",
+      "answer": "belgiwafel"
+    },
+    {
+      "src": "/assets/bakery/beygalr.jpg",
+      "answer": "beygalr"
+    },
+    {
+      "src": "/assets/bakery/biurekaspotato.jpg",
+      "answer": "biurekaspotato"
+    },
+    {
+      "src": "/assets/bakery/blinches.jpg",
+      "answer": "blinches"
+    },
+    {
+      "src": "/assets/bakery/bread.jpg",
+      "answer": "bread"
+    },
+    {
+      "src": "/assets/bakery/burekasgvinaa.jpg",
+      "answer": "burekasgvinaa"
+    },
+    {
+      "src": "/assets/bakery/cake.jpg",
+      "answer": "cake"
+    },
+    {
+      "src": "/assets/bakery/cheesecake.jpg",
+      "answer": "cheesecake"
+    },
+    {
+      "src": "/assets/bakery/cookies.jpg",
+      "answer": "cookies"
+    },
+    {
+      "src": "/assets/bakery/donat.jpg",
+      "answer": "donat"
+    },
+    {
+      "src": "/assets/bakery/duvshaniot.jpg",
+      "answer": "duvshaniot"
+    },
+    {
+      "src": "/assets/bakery/garlikbread.jpg",
+      "answer": "garlikbread"
+    },
+    {
+      "src": "/assets/bakery/korason.jpg",
+      "answer": "korason"
+    },
+    {
+      "src": "/assets/bakery/krembo.jpg",
+      "answer": "krembo"
+    },
+    {
+      "src": "/assets/bakery/krep.jpg",
+      "answer": "krep"
+    },
+    {
+      "src": "/assets/bakery/lachoch.jpg",
+      "answer": "lachoch"
+    },
+    {
+      "src": "/assets/bakery/mafin.jpg",
+      "answer": "mafin"
+    },
+    {
+      "src": "/assets/bakery/megulgalottmarhm.jpg",
+      "answer": "megulgalottmarhm"
+    },
+    {
+      "src": "/assets/bakery/pachzania.jpg",
+      "answer": "pachzania"
+    },
+    {
+      "src": "/assets/bakery/pancake.jpg",
+      "answer": "pancake"
+    },
+    {
+      "src": "/assets/bakery/pita.jpg",
+      "answer": "pita"
+    },
+    {
+      "src": "/assets/bakery/pizza.jpg",
+      "answer": "pizza"
+    },
+    {
+      "src": "/assets/bakery/reidatadama.jpg",
+      "answer": "reidatadama"
+    },
+    {
+      "src": "/assets/bakery/rogalach.jpg",
+      "answer": "rogalach"
+    },
+    {
+      "src": "/assets/bakery/roll.jpg",
+      "answer": "roll"
+    },
+    {
+      "src": "/assets/bakery/sambusak.jpg",
+      "answer": "sambusak"
+    },
+    {
+      "src": "/assets/bakery/sfinge.jpg",
+      "answer": "sfinge"
+    },
+    {
+      "src": "/assets/bakery/shmarim.jpg",
+      "answer": "shmarim"
+    },
+    {
+      "src": "/assets/bakery/sufgania.jpg",
+      "answer": "sufgania"
+    },
+    {
+      "src": "/assets/bakery/tartlimon.jpg",
+      "answer": "tartlimon"
+    },
+    {
+      "src": "/assets/bakery/נשלך'ש.jpg",
+      "answer": "נשלך'ש"
+    }
+  ],
   "electrics": [
     {
       "src": "/assets/electrics/AIR CONDITIONER.jpg",
@@ -309,6 +585,132 @@
     {
       "src": "/assets/electrics/Wired Computer Mouse.jpg",
       "answer": "Wired Computer Mouse"
+    }
+  ],
+  "fashion": [
+    {
+      "src": "/assets/fashion/belt.jpg",
+      "answer": "belt"
+    },
+    {
+      "src": "/assets/fashion/boots.jpg",
+      "answer": "boots"
+    },
+    {
+      "src": "/assets/fashion/capuchon.jpg",
+      "answer": "capuchon"
+    },
+    {
+      "src": "/assets/fashion/chafatim.jpg",
+      "answer": "chafatim"
+    },
+    {
+      "src": "/assets/fashion/chalifa.jpg",
+      "answer": "chalifa"
+    },
+    {
+      "src": "/assets/fashion/coat.jpg",
+      "answer": "coat"
+    },
+    {
+      "src": "/assets/fashion/dress.jpg",
+      "answer": "dress"
+    },
+    {
+      "src": "/assets/fashion/ears.jpg",
+      "answer": "ears"
+    },
+    {
+      "src": "/assets/fashion/garbionim.jpg",
+      "answer": "garbionim"
+    },
+    {
+      "src": "/assets/fashion/goves.jpg",
+      "answer": "goves"
+    },
+    {
+      "src": "/assets/fashion/hat.jpg",
+      "answer": "hat"
+    },
+    {
+      "src": "/assets/fashion/hills.jpg",
+      "answer": "hills"
+    },
+    {
+      "src": "/assets/fashion/jaket.jpg",
+      "answer": "jaket"
+    },
+    {
+      "src": "/assets/fashion/pants.jpg",
+      "answer": "pants"
+    },
+    {
+      "src": "/assets/fashion/pers.jpg",
+      "answer": "pers"
+    },
+    {
+      "src": "/assets/fashion/sandals.jpg",
+      "answer": "sandals"
+    },
+    {
+      "src": "/assets/fashion/sarig.jpg",
+      "answer": "sarig"
+    },
+    {
+      "src": "/assets/fashion/scarf.jpg",
+      "answer": "scarf"
+    },
+    {
+      "src": "/assets/fashion/shirt.jpg",
+      "answer": "shirt"
+    },
+    {
+      "src": "/assets/fashion/shorts.jpg",
+      "answer": "shorts"
+    },
+    {
+      "src": "/assets/fashion/sidebag.jpg",
+      "answer": "sidebag"
+    },
+    {
+      "src": "/assets/fashion/skirt.jpg",
+      "answer": "skirt"
+    },
+    {
+      "src": "/assets/fashion/socks.jpg",
+      "answer": "socks"
+    },
+    {
+      "src": "/assets/fashion/sunglasses.jpg",
+      "answer": "sunglasses"
+    },
+    {
+      "src": "/assets/fashion/sunhat.jpg",
+      "answer": "sunhat"
+    },
+    {
+      "src": "/assets/fashion/sweemsuit.jpg",
+      "answer": "sweemsuit"
+    },
+    {
+      "src": "/assets/fashion/tarmil.jpg",
+      "answer": "tarmil"
+    },
+    {
+      "src": "/assets/fashion/tie.jpg",
+      "answer": "tie"
+    },
+    {
+      "src": "/assets/fashion/tshirt.jpg",
+      "answer": "tshirt"
+    },
+    {
+      "src": "/assets/fashion/watch.jpg",
+      "answer": "watch"
+    },
+    {
+      "src": "/assets/fashion/דביםםךנשע.jpg",
+      "answer": "דביםםךנשע"
     }
   ],
   "flags": [
@@ -583,6 +985,164 @@
       "answer": "yellowchease"
     }
   ],
+  "furniture": [
+    {
+      "src": "/assets/furniture/ARMCHAIR.jpg",
+      "answer": "ARMCHAIR"
+    },
+    {
+      "src": "/assets/furniture/baby dresser.jpg",
+      "answer": "baby dresser"
+    },
+    {
+      "src": "/assets/furniture/BAR CHAIR.jpg",
+      "answer": "BAR CHAIR"
+    },
+    {
+      "src": "/assets/furniture/BED.jpg",
+      "answer": "BED"
+    },
+    {
+      "src": "/assets/furniture/BENCH.jpg",
+      "answer": "BENCH"
+    },
+    {
+      "src": "/assets/furniture/BODY MIRROR.jpg",
+      "answer": "BODY MIRROR"
+    },
+    {
+      "src": "/assets/furniture/BOOKSHELF.jpg",
+      "answer": "BOOKSHELF"
+    },
+    {
+      "src": "/assets/furniture/BUFFET.jpg",
+      "answer": "BUFFET"
+    },
+    {
+      "src": "/assets/furniture/BUNK BED.jpg",
+      "answer": "BUNK BED"
+    },
+    {
+      "src": "/assets/furniture/CHAIR.jpg",
+      "answer": "CHAIR"
+    },
+    {
+      "src": "/assets/furniture/Chaise longue.jpg",
+      "answer": "Chaise longue"
+    },
+    {
+      "src": "/assets/furniture/CLOSET.jpg",
+      "answer": "CLOSET"
+    },
+    {
+      "src": "/assets/furniture/CLOTHES RACK.jpg",
+      "answer": "CLOTHES RACK"
+    },
+    {
+      "src": "/assets/furniture/CRADLE.jpg",
+      "answer": "CRADLE"
+    },
+    {
+      "src": "/assets/furniture/CRIB.jpg",
+      "answer": "CRIB"
+    },
+    {
+      "src": "/assets/furniture/DOOR.jpg",
+      "answer": "DOOR"
+    },
+    {
+      "src": "/assets/furniture/DRAWER.jpg",
+      "answer": "DRAWER"
+    },
+    {
+      "src": "/assets/furniture/DRESSER.jpg",
+      "answer": "DRESSER"
+    },
+    {
+      "src": "/assets/furniture/Dressing Table.jpg",
+      "answer": "Dressing Table"
+    },
+    {
+      "src": "/assets/furniture/FACE MIRROR.jpg",
+      "answer": "FACE MIRROR"
+    },
+    {
+      "src": "/assets/furniture/FOLDING TABLE.jpg",
+      "answer": "FOLDING TABLE"
+    },
+    {
+      "src": "/assets/furniture/FOOTSTOOL.jpg",
+      "answer": "FOOTSTOOL"
+    },
+    {
+      "src": "/assets/furniture/LAUNDRY HANGER.jpg",
+      "answer": "LAUNDRY HANGER"
+    },
+    {
+      "src": "/assets/furniture/massage chair.jpg",
+      "answer": "massage chair"
+    },
+    {
+      "src": "/assets/furniture/MATRESS.jpg",
+      "answer": "MATRESS"
+    },
+    {
+      "src": "/assets/furniture/NIGHTSTAND.jpg",
+      "answer": "NIGHTSTAND"
+    },
+    {
+      "src": "/assets/furniture/OFFICE CHAIR.jpg",
+      "answer": "OFFICE CHAIR"
+    },
+    {
+      "src": "/assets/furniture/OFFICE TABLE.jpg",
+      "answer": "OFFICE TABLE"
+    },
+    {
+      "src": "/assets/furniture/SCHOOL TABLE.jpg",
+      "answer": "SCHOOL TABLE"
+    },
+    {
+      "src": "/assets/furniture/Serving Trolley.jpg",
+      "answer": "Serving Trolley"
+    },
+    {
+      "src": "/assets/furniture/SHELF.jpg",
+      "answer": "SHELF"
+    },
+    {
+      "src": "/assets/furniture/SHOES RACK.jpg",
+      "answer": "SHOES RACK"
+    },
+    {
+      "src": "/assets/furniture/SHOWCASE.jpg",
+      "answer": "SHOWCASE"
+    },
+    {
+      "src": "/assets/furniture/SINK.jpg",
+      "answer": "SINK"
+    },
+    {
+      "src": "/assets/furniture/SOFA.jpg",
+      "answer": "SOFA"
+    },
+    {
+      "src": "/assets/furniture/stender.jpg",
+      "answer": "stender"
+    },
+    {
+      "src": "/assets/furniture/STOOL.jpg",
+      "answer": "STOOL"
+    },
+    {
+      "src": "/assets/furniture/TOILET.jpg",
+      "answer": "TOILET"
+    },
+    {
+      "src": "/assets/furniture/Wheelchair.jpg",
+      "answer": "Wheelchair"
+    }
+  ],
   "hagim": [
     {
       "src": "/assets/hagim/arbakoso,.jpg",
@@ -739,6 +1299,10 @@
       "answer": "adidas"
     },
     {
+      "src": "/assets/motag/android.png",
+      "answer": "android"
+    },
+    {
       "src": "/assets/motag/apple.png",
       "answer": "apple"
     },
@@ -755,8 +1319,16 @@
       "answer": "celvinklein"
     },
     {
+      "src": "/assets/motag/chanel.png",
+      "answer": "chanel"
+    },
+    {
       "src": "/assets/motag/cocacola.png",
       "answer": "cocacola"
+    },
+    {
+      "src": "/assets/motag/delta.jpg",
+      "answer": "delta"
     },
     {
       "src": "/assets/motag/dirshu.jpg",
@@ -771,6 +1343,10 @@
       "answer": "explorer"
     },
     {
+      "src": "/assets/motag/gucci.jpg",
+      "answer": "gucci"
+    },
+    {
       "src": "/assets/motag/itvata.jpg",
       "answer": "itvata"
     },
@@ -779,12 +1355,24 @@
       "answer": "lacost"
     },
     {
+      "src": "/assets/motag/microsoft.jpg",
+      "answer": "microsoft"
+    },
+    {
       "src": "/assets/motag/nike.png",
       "answer": "nike"
     },
     {
       "src": "/assets/motag/osem.png",
       "answer": "osem"
+    },
+    {
+      "src": "/assets/motag/pandora.jpg",
+      "answer": "pandora"
+    },
+    {
+      "src": "/assets/motag/paypal.png",
+      "answer": "paypal"
     },
     {
       "src": "/assets/motag/pepsi.png",
@@ -803,12 +1391,32 @@
       "answer": "rachelH"
     },
     {
+      "src": "/assets/motag/reebok.png",
+      "answer": "reebok"
+    },
+    {
       "src": "/assets/motag/shtraus.jpg",
       "answer": "shtraus"
     },
     {
+      "src": "/assets/motag/temu.png",
+      "answer": "temu"
+    },
+    {
       "src": "/assets/motag/tnuva.jpg",
       "answer": "tnuva"
+    },
+    {
+      "src": "/assets/motag/tommy.jpg",
+      "answer": "tommy"
+    },
+    {
+      "src": "/assets/motag/twitter.png",
+      "answer": "twitter"
+    },
+    {
+      "src": "/assets/motag/waze.jpg",
+      "answer": "waze"
     },
     {
       "src": "/assets/motag/xiaomi.png",
@@ -817,6 +1425,10 @@
     {
       "src": "/assets/motag/youtube.png",
       "answer": "youtube"
+    },
+    {
+      "src": "/assets/motag/zoom.jpg",
+      "answer": "zoom"
     }
   ],
   "music": [
