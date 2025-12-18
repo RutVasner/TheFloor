@@ -2,159 +2,159 @@
   "animals": [
     {
       "src": "/assets/animals/BEAR.jpg",
-      "answer": "BEAR"
+      "answer": "דב"
     },
     {
       "src": "/assets/animals/Beaver.jpg",
-      "answer": "Beaver"
+      "answer": "בונה"
     },
     {
       "src": "/assets/animals/CAMEL.jpg",
-      "answer": "CAMEL"
+      "answer": "גמל"
     },
     {
       "src": "/assets/animals/CAT.jpg",
-      "answer": "CAT"
+      "answer": "חתול"
     },
     {
       "src": "/assets/animals/COW.jpg",
-      "answer": "COW"
+      "answer": "פרה"
     },
     {
       "src": "/assets/animals/CROCODDILE.jpg",
-      "answer": "CROCODDILE"
+      "answer": "תנין"
     },
     {
       "src": "/assets/animals/deer.jpg",
-      "answer": "deer"
+      "answer": "אייל"
     },
     {
       "src": "/assets/animals/DOLPHIN.jpeg",
-      "answer": "DOLPHIN"
+      "answer": "דולפין"
     },
     {
       "src": "/assets/animals/DONKEY.jpg",
-      "answer": "DONKEY"
+      "answer": "חמור"
     },
     {
       "src": "/assets/animals/DUCK.jpg",
-      "answer": "DUCK"
+      "answer": "ברווז"
     },
     {
       "src": "/assets/animals/EAGLE.jpg",
-      "answer": "EAGLE"
+      "answer": "נשר"
     },
     {
       "src": "/assets/animals/elephant.jpg",
-      "answer": "elephant"
+      "answer": "פיל"
     },
     {
       "src": "/assets/animals/FLAMINGO.jpg",
-      "answer": "FLAMINGO"
+      "answer": "פלאמינגו"
     },
     {
       "src": "/assets/animals/FOX.jpg",
-      "answer": "FOX"
+      "answer": "שועל"
     },
     {
       "src": "/assets/animals/FROG.jpg",
-      "answer": "FROG"
+      "answer": "צפרדע"
     },
     {
       "src": "/assets/animals/Giraffe.jpg",
-      "answer": "Giraffe"
+      "answer": "ג'ירפה"
     },
     {
       "src": "/assets/animals/GOAT.jpg",
-      "answer": "GOAT"
+      "answer": "עז"
     },
     {
       "src": "/assets/animals/HAMSTER.jpeg",
-      "answer": "HAMSTER"
+      "answer": "ארנבת"
     },
     {
       "src": "/assets/animals/Hedgehog.jpg",
-      "answer": "Hedgehog"
+      "answer": "קיפוד"
     },
     {
       "src": "/assets/animals/Hippopotamus.jpg",
-      "answer": "Hippopotamus"
+      "answer": "היפופוטם"
     },
     {
       "src": "/assets/animals/horse.jpg",
-      "answer": "horse"
+      "answer": "סוס"
     },
     {
       "src": "/assets/animals/KOALA.jpeg",
-      "answer": "KOALA"
+      "answer": "קואלה"
     },
     {
       "src": "/assets/animals/LION.jpeg",
-      "answer": "LION"
+      "answer": "אריה"
     },
     {
       "src": "/assets/animals/MONKEY.jpg",
-      "answer": "MONKEY"
+      "answer": "קוף"
     },
     {
       "src": "/assets/animals/ostrich.jpg",
-      "answer": "ostrich"
+      "answer": "יונה"
     },
     {
       "src": "/assets/animals/OTTER.jpg",
-      "answer": "OTTER"
+      "answer": "לוטרה"
     },
     {
       "src": "/assets/animals/PANDA.jpeg",
-      "answer": "PANDA"
+      "answer": "פנדה"
     },
     {
       "src": "/assets/animals/PENGUIN.jpg",
-      "answer": "PENGUIN"
+      "answer": "פינגווין"
     },
     {
       "src": "/assets/animals/PIG.jpg",
-      "answer": "PIG"
+      "answer": "חזיר"
     },
     {
       "src": "/assets/animals/RABBIT.jpg",
-      "answer": "RABBIT"
+      "answer": "ארנב"
     },
     {
       "src": "/assets/animals/RACOON.jpg",
-      "answer": "RACOON"
+      "answer": "רקון"
     },
     {
       "src": "/assets/animals/ROOSTER.jpg",
-      "answer": "ROOSTER"
+      "answer": "תרנגול"
     },
     {
       "src": "/assets/animals/SHARK.jpg",
-      "answer": "SHARK"
+      "answer": "כריש"
     },
     {
       "src": "/assets/animals/SHEEP.jpg",
-      "answer": "SHEEP"
+      "answer": "כבשה"
     },
     {
       "src": "/assets/animals/SKUNK.jpg",
-      "answer": "SKUNK"
+      "answer": "סנרק"
     },
     {
       "src": "/assets/animals/SNAKE.jpg",
-      "answer": "SNAKE"
+      "answer": "נחש"
     },
     {
       "src": "/assets/animals/squirrel.jpeg",
-      "answer": "squirrel"
+      "answer": "סנאי"
     },
     {
       "src": "/assets/animals/WOLF.jpeg",
-      "answer": "WOLF"
+      "answer": "זאב"
     },
     {
       "src": "/assets/animals/ZEBRA.jpeg",
-      "answer": "ZEBRA"
+      "answer": "זברה"
     }
   ],
   "babies": [
@@ -298,139 +298,139 @@
   "bakery": [
     {
       "src": "/assets/bakery/akler.jpg",
-      "answer": "akler"
+      "answer": "אקלר"
     },
     {
       "src": "/assets/bakery/bagel.jpg",
-      "answer": "bagel"
+      "answer": "בייגל"
     },
     {
       "src": "/assets/bakery/baget.jpg",
-      "answer": "baget"
+      "answer": "באגט"
+    },
+    {
+      "src": "/assets/bakery/baklawa.jpg",
+      "answer": "בקלוואה"
     },
     {
       "src": "/assets/bakery/belgiwafel.jpg",
-      "answer": "belgiwafel"
+      "answer": "וופל בלגי"
     },
     {
       "src": "/assets/bakery/beygalr.jpg",
-      "answer": "beygalr"
+      "answer": "בייגל"
     },
     {
       "src": "/assets/bakery/biurekaspotato.jpg",
-      "answer": "biurekaspotato"
+      "answer": "בורקס תפוחי אדמה"
     },
     {
       "src": "/assets/bakery/blinches.jpg",
-      "answer": "blinches"
+      "answer": "בלינצ'ס"
     },
     {
       "src": "/assets/bakery/bread.jpg",
-      "answer": "bread"
+      "answer": "לחם"
     },
     {
       "src": "/assets/bakery/burekasgvinaa.jpg",
-      "answer": "burekasgvinaa"
+      "answer": "בורקס גבינה"
     },
     {
       "src": "/assets/bakery/cake.jpg",
-      "answer": "cake"
+      "answer": "עוגה"
     },
     {
       "src": "/assets/bakery/cheesecake.jpg",
-      "answer": "cheesecake"
+      "answer": "עוגת גבינה"
     },
     {
       "src": "/assets/bakery/cookies.jpg",
-      "answer": "cookies"
+      "answer": "עוגיות"
     },
     {
       "src": "/assets/bakery/donat.jpg",
-      "answer": "donat"
+      "answer": "דונאטס"
     },
     {
       "src": "/assets/bakery/duvshaniot.jpg",
-      "answer": "duvshaniot"
+      "answer": "דבשניות"
     },
     {
       "src": "/assets/bakery/garlikbread.jpg",
-      "answer": "garlikbread"
+      "answer": "לחם שום"
     },
     {
       "src": "/assets/bakery/korason.jpg",
-      "answer": "korason"
+      "answer": "קרואסון"
     },
     {
       "src": "/assets/bakery/krembo.jpg",
-      "answer": "krembo"
+      "answer": "קרמבו"
     },
     {
       "src": "/assets/bakery/krep.jpg",
-      "answer": "krep"
+      "answer": "קרפ"
     },
     {
       "src": "/assets/bakery/lachoch.jpg",
-      "answer": "lachoch"
+      "answer": "לחוח"
     },
     {
       "src": "/assets/bakery/mafin.jpg",
-      "answer": "mafin"
+      "answer": "מאפין"
     },
     {
       "src": "/assets/bakery/megulgalottmarhm.jpg",
-      "answer": "megulgalottmarhm"
+      "answer": "מגולגלות תמרים"
     },
     {
       "src": "/assets/bakery/pachzania.jpg",
-      "answer": "pachzania"
+      "answer": "פחזניה"
     },
     {
       "src": "/assets/bakery/pancake.jpg",
-      "answer": "pancake"
+      "answer": "פנקייק"
     },
     {
       "src": "/assets/bakery/pita.jpg",
-      "answer": "pita"
+      "answer": "פיתה"
     },
     {
       "src": "/assets/bakery/pizza.jpg",
-      "answer": "pizza"
+      "answer": "פיצה"
     },
     {
       "src": "/assets/bakery/reidatadama.jpg",
-      "answer": "reidatadama"
+      "answer": "עוגיות רעידת אדמה"
     },
     {
       "src": "/assets/bakery/rogalach.jpg",
-      "answer": "rogalach"
+      "answer": "רוגלאך"
     },
     {
       "src": "/assets/bakery/roll.jpg",
-      "answer": "roll"
+      "answer": "רול"
     },
     {
       "src": "/assets/bakery/sambusak.jpg",
-      "answer": "sambusak"
+      "answer": "סמבוסק"
     },
     {
       "src": "/assets/bakery/sfinge.jpg",
-      "answer": "sfinge"
+      "answer": "ספינג'"
     },
     {
       "src": "/assets/bakery/shmarim.jpg",
-      "answer": "shmarim"
+      "answer": "שמרים"
     },
     {
       "src": "/assets/bakery/sufgania.jpg",
-      "answer": "sufgania"
+      "answer": "סופגניה"
     },
     {
       "src": "/assets/bakery/tartlimon.jpg",
-      "answer": "tartlimon"
-    },
-    {
-      "src": "/assets/bakery/נשלך'ש.jpg",
-      "answer": "נשלך'ש"
+      "answer": "טארט לימון"
     }
   ],
   "electrics": [
@@ -716,273 +716,273 @@
   "flags": [
     {
       "src": "/assets/flags/Argentina.jpg",
-      "answer": "Argentina"
+      "answer": "ארגנטינה"
     },
     {
       "src": "/assets/flags/Austria.jpg",
-      "answer": "Austria"
+      "answer": "אוסטריה"
     },
     {
       "src": "/assets/flags/BELGIUM.jpg",
-      "answer": "BELGIUM"
+      "answer": "בלגיה"
     },
     {
       "src": "/assets/flags/BRAZIL.jpg",
-      "answer": "BRAZIL"
+      "answer": "ברזיל"
     },
     {
       "src": "/assets/flags/CANADA.jpg",
-      "answer": "CANADA"
+      "answer": "קנדה"
     },
     {
       "src": "/assets/flags/CHINA.jpg",
-      "answer": "CHINA"
+      "answer": "סין"
     },
     {
       "src": "/assets/flags/CROACIA.jpg",
-      "answer": "CROACIA"
+      "answer": "קרואטיה"
     },
     {
       "src": "/assets/flags/CYPRUS.jpg",
-      "answer": "CYPRUS"
+      "answer": "קפריסין"
     },
     {
       "src": "/assets/flags/DENMARK.jpg",
-      "answer": "DENMARK"
+      "answer": "דנמרק"
     },
     {
       "src": "/assets/flags/EGYPT.jpg",
-      "answer": "EGYPT"
+      "answer": "מצרים"
     },
     {
       "src": "/assets/flags/Estonia.jpg",
-      "answer": "Estonia"
+      "answer": "אסטוניה"
     },
     {
       "src": "/assets/flags/Finland.jpg",
-      "answer": "Finland"
+      "answer": "פינלנד"
     },
     {
       "src": "/assets/flags/GEORGIA.jpg",
-      "answer": "GEORGIA"
+      "answer": "גאורגיה"
     },
     {
       "src": "/assets/flags/GREECE.jpg",
-      "answer": "GREECE"
+      "answer": "יוון"
     },
     {
       "src": "/assets/flags/INDIA.jpg",
-      "answer": "INDIA"
+      "answer": "הודו"
     },
     {
       "src": "/assets/flags/IRELAND.jpg",
-      "answer": "IRELAND"
+      "answer": "אירלנד"
     },
     {
       "src": "/assets/flags/ISRAEL.jpg",
-      "answer": "ISRAEL"
+      "answer": "ישראל"
     },
     {
       "src": "/assets/flags/ITALY.jpg",
-      "answer": "ITALY"
+      "answer": "איטליה"
     },
     {
       "src": "/assets/flags/Japan.jpg",
-      "answer": "Japan"
+      "answer": "יפן"
     },
     {
       "src": "/assets/flags/LATVIA.jpg",
-      "answer": "LATVIA"
+      "answer": "לטביה"
     },
     {
       "src": "/assets/flags/LITHUANIA.jpg",
-      "answer": "LITHUANIA"
+      "answer": "ליטא"
     },
     {
       "src": "/assets/flags/Luxembourg.jpg",
-      "answer": "Luxembourg"
+      "answer": "לוקסמבורג"
     },
     {
       "src": "/assets/flags/Malta.jpg",
-      "answer": "Malta"
+      "answer": "מלטה"
     },
     {
       "src": "/assets/flags/MEXICO.jpg",
-      "answer": "MEXICO"
+      "answer": "מקסיקו"
     },
     {
       "src": "/assets/flags/MONTENEGRO.jpg",
-      "answer": "MONTENEGRO"
+      "answer": "מונטנגרו"
     },
     {
       "src": "/assets/flags/NETHERLAND.jpg",
-      "answer": "NETHERLAND"
+      "answer": "הולנד"
     },
     {
       "src": "/assets/flags/NORWAY.jpg",
-      "answer": "NORWAY"
+      "answer": "נורווגיה"
     },
     {
       "src": "/assets/flags/Portugal.jpg",
-      "answer": "Portugal"
+      "answer": "פורטוגל"
     },
     {
       "src": "/assets/flags/RUSSIA.jpg",
-      "answer": "RUSSIA"
+      "answer": "רוסיה"
     },
     {
       "src": "/assets/flags/SLOVAKIA.jpg",
-      "answer": "SLOVAKIA"
+      "answer": "סלובקיה"
     },
     {
       "src": "/assets/flags/SLOVENIA.jpg",
-      "answer": "SLOVENIA"
+      "answer": "סלובניה"
     },
     {
       "src": "/assets/flags/SOUTH AFRICA.jpg",
-      "answer": "SOUTH AFRICA"
+      "answer": "דרום אפריקה"
     },
     {
       "src": "/assets/flags/SOUTH KOREA.jpg",
-      "answer": "SOUTH KOREA"
+      "answer": "דרום קוריאה"
     },
     {
       "src": "/assets/flags/SPAIN.jpg",
-      "answer": "SPAIN"
+      "answer": "ספרד"
     },
     {
       "src": "/assets/flags/SWITZERLAND.jpg",
-      "answer": "SWITZERLAND"
+      "answer": "שווייץ"
     },
     {
       "src": "/assets/flags/THAILAND.jpg",
-      "answer": "THAILAND"
+      "answer": "תאילנד"
     },
     {
       "src": "/assets/flags/Turkey.jpg",
-      "answer": "Turkey"
+      "answer": "טורקיה"
     },
     {
       "src": "/assets/flags/UK.jpg",
-      "answer": "UK"
+      "answer": "הממלכה המאוחדת"
     }
   ],
   "food": [
     {
       "src": "/assets/food/bolonez.jpg",
-      "answer": "bolonez"
+      "answer": "בולונז"
     },
     {
       "src": "/assets/food/bread.jpg",
-      "answer": "bread"
+      "answer": "לחם"
     },
     {
       "src": "/assets/food/chease.jpg",
-      "answer": "chease"
+      "answer": "גבינה"
     },
     {
       "src": "/assets/food/eggSalad.jpg",
-      "answer": "eggSalad"
+      "answer": "סלט ביצים"
     },
     {
       "src": "/assets/food/eshel.jpg",
-      "answer": "eshel"
+      "answer": "אשל"
     },
     {
       "src": "/assets/food/humusbasar.jpg",
-      "answer": "humusbasar"
+      "answer": "חומוס בשר"
     },
     {
       "src": "/assets/food/icecream.jpg",
-      "answer": "icecream"
+      "answer": "גלידה"
     },
     {
       "src": "/assets/food/kuskus.jpg",
-      "answer": "kuskus"
+      "answer": "קוסקוס"
     },
     {
       "src": "/assets/food/lazanya.jpg",
-      "answer": "lazanya"
+      "answer": "לזניה"
     },
     {
       "src": "/assets/food/mahpotato.jpg",
-      "answer": "mahpotato"
+      "answer": "תפוחי אדמה"
     },
     {
       "src": "/assets/food/majadra.jpg",
-      "answer": "majadra"
+      "answer": "מג'דרה"
     },
     {
       "src": "/assets/food/marokayfish.jpg",
-      "answer": "marokayfish"
+      "answer": "דג מרוקאי"
     },
     {
       "src": "/assets/food/meatbolls.jpg",
-      "answer": "meatbolls"
+      "answer": "קציצות"
     },
     {
       "src": "/assets/food/musaka.jpg",
-      "answer": "musaka"
+      "answer": "מוסקה"
     },
     {
       "src": "/assets/food/napolyoncake.jpg",
-      "answer": "napolyoncake"
+      "answer": "עוגת נפוליון"
     },
     {
       "src": "/assets/food/omlet.jpg",
-      "answer": "omlet"
+      "answer": "חביתה"
     },
     {
       "src": "/assets/food/piza.jpg",
-      "answer": "piza"
+      "answer": "פיצה"
     },
     {
       "src": "/assets/food/rice.jpg",
-      "answer": "rice"
+      "answer": "אורז"
     },
     {
       "src": "/assets/food/shakshuka.jpg",
-      "answer": "shakshuka"
+      "answer": "שקשוקה"
     },
     {
       "src": "/assets/food/shipudim.jpg",
-      "answer": "shipudim"
+      "answer": "שיפודים"
     },
     {
       "src": "/assets/food/shnitzel.jpg",
-      "answer": "shnitzel"
+      "answer": "שניצל"
     },
     {
       "src": "/assets/food/shuarma.jpg",
-      "answer": "shuarma"
+      "answer": "שווארמה"
     },
     {
       "src": "/assets/food/sosegeinroll.jpg",
-      "answer": "sosegeinroll"
+      "answer": "נקניקייה במעטפה"
     },
     {
       "src": "/assets/food/soup.jpg",
-      "answer": "soup"
+      "answer": "מרק"
     },
     {
       "src": "/assets/food/Stirfriedvegetables.jpg",
-      "answer": "Stirfriedvegetables"
+      "answer": "ירקות מוקפצים"
     },
     {
       "src": "/assets/food/sushi.jpg",
-      "answer": "sushi"
+      "answer": "סושי"
     },
     {
       "src": "/assets/food/tako.jpg",
-      "answer": "tako"
+      "answer": "טקו"
     },
     {
       "src": "/assets/food/wippedcream.jpg",
-      "answer": "wippedcream"
+      "answer": "קצפת"
     },
     {
       "src": "/assets/food/yellowchease.jpg",
-      "answer": "yellowchease"
+      "answer": "גבינה צהובה"
     }
   ],
   "furniture": [
@@ -1278,7 +1278,7 @@
     },
     {
       "src": "/assets/hagim/sufgania.jpg",
-      "answer": "sufgania"
+      "answer": "סופגניה"
     },
     {
       "src": "/assets/hagim/suka.jpg",

@@ -1,7 +1,7 @@
 // translations.js
-const translations = {
+export const translations = {
 //flags
-"Argentina": "ארגנטינה",
+  "Argentina": "ארגנטינה",
   "Austria": "אוסטריה",
   "BELGIUM": "בלגיה",
   "BRAZIL": "ברזיל",
@@ -108,7 +108,40 @@ const translations = {
   "SNAKE": "נחש",
   "squirrel": "סנאי",
   "WOLF": "זאב",
-  "ZEBRA": "זברה"
+  "ZEBRA": "זברה",
+  //bakery
+  "akler": "אקלר",
+  "bagel": "בייגל",
+  "baget": "באגט",
+  "baklawa": "בקלוואה",
+  "belgiwafel": "וופל בלגי",
+  "beygalr": "בייגל",
+  "biurekaspotato": "בורקס תפוחי אדמה",
+  "blinches": "בלינצ'ס",
+  "bread": "לחם",
+  "burekasgvinaa": "בורקס גבינה",
+  "cake": "עוגה",
+  "cheesecake": "עוגת גבינה",
+  "cookies": "עוגיות",
+  "donat": "דונאטס",
+  "duvshaniot": "דבשניות",
+  "garlikbread": "לחם שום",
+  "korason": "קרואסון",
+  "krembo": "קרמבו",
+  "krep": "קרפ",
+  "lachoch": "לחוח",
+  "mafin": "מאפין",
+  "megulgalottmarhm": "מגולגלות תמרים",
+  "pachzania": "פחזניה",
+  "pancake": "פנקייק",
+  "pita": "פיתה",
+  "pizza": "פיצה",
+  "reidatadama": "עוגיות רעידת אדמה",
+  "rogalach": "רוגלאך",
+  "roll": "רול",
+  "sambusak": "סמבוסק",
+  "sfinge": "ספינג'",
+  "shmarim": "שמרים",
+  "sufgania": "סופגניה",
+  "tartlimon": "טארט לימון"
 };
-
-export default translations;

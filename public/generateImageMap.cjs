@@ -1,7 +1,7 @@
 // generateImageMap.js
 const fs = require("fs");
 const path = require("path");
-const translations = require("./translations");
+const { translations: t } = require("./translations");
 
 const assetsDir = path.join(__dirname, "assets"); // התיקיה הראשית
 const categories = fs.readdirSync(assetsDir).filter(f =>
@@ -17,9 +17,11 @@ categories.forEach((cat) => {
   imageMap[cat] = files.map((file) => {
     
     const name = path.parse(file).name; // בלי סיומת
+    console.log(t[name], "trans");
+    debugger;
     return {
       src: `/assets/${cat}/${file}`,
-      answer: translations[name] || name, // אם אין תרגום, נשאיר באנגלית
+      answer: t[name] || name, // אם אין תרגום, נשאיר באנגלית
     };
   });
 });
