@@ -48,8 +48,8 @@ const onBattleEnd = (winner, loser) => {
 };
 
   return screen === "arena" ? (
-    <ArenaBoard board={board} selected={selected} onTileClick={onTileClick} />
+    <ArenaBoard className="app" board={board} selected={selected} onTileClick={onTileClick} />
   ) : (
-    <BattleFloor battle={battle} onEnd={onBattleEnd} />
+    <BattleFloor className="app" battle={battle} onEnd={onBattleEnd} />
   );
 }
