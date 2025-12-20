@@ -17,11 +17,11 @@ categories.forEach((cat) => {
   imageMap[cat] = files.map((file) => {
     
     const name = path.parse(file).name; // בלי סיומת
-    console.log(t[name], "trans");
-    // debugger;
+    const key = name.toLowerCase();
+
     return {
       src: `/assets/${cat}/${file}`,
-      answer: t[name] || name, // אם אין תרגום, נשאיר באנגלית
+      answer: t[key] || name, // אם אין תרגום, נשאיר באנגלית
     };
   });
 });

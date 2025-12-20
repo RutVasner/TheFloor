@@ -9,43 +9,47 @@ export default function App() {
   const [selected, setSelected] = useState([]);
   const [battle, setBattle] = useState(null);
 
-const onTileClick = (tile) => {
-  if (selected.some((t) => t.ownerId === tile.ownerId)) return;
+  const onTileClick = (tile) => {
+    if (selected.some((t) => t.ownerId === tile.ownerId)) return;
 
-  const sel = [...selected, tile];
-  setSelected(sel);
+    const sel = [...selected, tile];
+    setSelected(sel);
 
-  if (sel.length === 2) {
-    setBattle({
-      p1: sel[0],
-      p2: sel[1],
-      topic: sel[1].topic,
-    });
-    setSelected([]);
-    setScreen("battle");
-  }
-};
+    if (sel.length === 2) {
+      setBattle({
+        p1: sel[0],
+        p2: sel[1],
+        topic: sel[1].topic,
+      });
+      setSelected([]);
+      setScreen("battle");
+    }
+  };
 
 
-const onBattleEnd = (winner, loser,p1Topic) => {
-  debugger;
-  setBoard((prev) =>
-    prev.map((tile) =>
-      tile.ownerId === loser.ownerId||loser.ownerId===tile.id
-        ? {
+  const onBattleEnd = (winner, loser, newTopic) => {
+    setBoard((prev) =>
+      prev.map((tile) => {
+        if (
+          tile.ownerId === winner.ownerId ||
+          tile.ownerId === loser.ownerId
+        ) {
+          return {
             ...tile,
-            ownerId: winner.ownerId,
+            ownerId: winner.id,
             name: winner.name,
-            topic: p1Topic,
+            topic: newTopic,
             color: winner.color,
-          }
-        : tile
-    )
-  );
+          };
+        }
 
-  setBattle(null);
-  setScreen("arena");
-};
+        return tile;
+      })
+    );
+    setBattle(null);
+    setScreen("arena");
+  };
+
 
   return screen === "arena" ? (
     <ArenaBoard className="app" board={board} selected={selected} onTileClick={onTileClick} />
@@ -53,3 +57,4 @@ const onBattleEnd = (winner, loser,p1Topic) => {
     <BattleFloor className="app" battle={battle} onEnd={onBattleEnd} />
   );
 }
+

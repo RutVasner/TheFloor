@@ -160,59 +160,59 @@
   "babies": [
     {
       "src": "/assets/babies/agalatlul.jpg",
-      "answer": "agalatlul"
+      "answer": "עגלת לול"
     },
     {
       "src": "/assets/babies/arias.jpg",
-      "answer": "arias"
+      "answer": "עריסה"
     },
     {
       "src": "/assets/babies/babybath.jpg",
-      "answer": "babybath"
+      "answer": "אמבטיית תינוק"
     },
     {
       "src": "/assets/babies/babygro.jpg",
-      "answer": "babygro"
+      "answer": "אוברול לתינוק"
     },
     {
       "src": "/assets/babies/bakbuk.jpg",
-      "answer": "bakbuk"
+      "answer": "בקבוק"
     },
     {
       "src": "/assets/babies/chitul.jpg",
-      "answer": "chitul"
+      "answer": "חיתול"
     },
     {
       "src": "/assets/babies/dafny.jpg",
-      "answer": "dafny"
+      "answer": "דפני"
     },
     {
       "src": "/assets/babies/dona.jpg",
-      "answer": "dona"
+      "answer": "דונה"
     },
     {
       "src": "/assets/babies/eglatshchiva.jpg",
-      "answer": "eglatshchiva"
+      "answer": "עגלה שכיבה"
     },
     {
       "src": "/assets/babies/highcair.jpg",
-      "answer": "highcair"
+      "answer": "כיסא אוכל"
     },
     {
       "src": "/assets/babies/kova.jpg",
-      "answer": "kova"
+      "answer": "כובע"
     },
     {
       "src": "/assets/babies/machzikmotzetz.jpg",
-      "answer": "machzikmotzetz"
+      "answer": "מחזיק מוצץ"
     },
     {
       "src": "/assets/babies/madchom.jpg",
-      "answer": "madchom"
+      "answer": "מדחום"
     },
     {
       "src": "/assets/babies/magenrosh.jpg",
-      "answer": "magenrosh"
+      "answer": "מגן ראש"
     },
     {
       "src": "/assets/babies/magvoni,.jpg",
@@ -220,79 +220,79 @@
     },
     {
       "src": "/assets/babies/masheva.jpg",
-      "answer": "masheva"
+      "answer": "משאבה"
     },
     {
       "src": "/assets/babies/mechalekmanot.jpg",
-      "answer": "mechalekmanot"
+      "answer": "מחלק מנות"
     },
     {
       "src": "/assets/babies/mechamembakbuk.jpg",
-      "answer": "mechamembakbuk"
+      "answer": "מחמם בקבוקים"
     },
     {
       "src": "/assets/babies/minsa.jpg",
-      "answer": "minsa"
+      "answer": "מנשא"
     },
     {
       "src": "/assets/babies/mishchathachtala.jpg",
-      "answer": "mishchathachtala"
+      "answer": "משטח החתלה"
     },
     {
       "src": "/assets/babies/mobail.jpg",
-      "answer": "mobail"
+      "answer": "מובייל"
     },
     {
       "src": "/assets/babies/montor.jpg",
-      "answer": "montor"
+      "answer": "מוניטור"
     },
     {
       "src": "/assets/babies/motzetz.jpg",
-      "answer": "motzetz"
+      "answer": "מוצץ"
     },
     {
       "src": "/assets/babies/nashchan.jpg",
-      "answer": "nashchan"
+      "answer": "נשכן"
     },
     {
       "src": "/assets/babies/pitmatbakbuk.jpg",
-      "answer": "pitmatbakbuk"
+      "answer": "פיטמת בקבוק"
     },
     {
       "src": "/assets/babies/salkal.jpg",
-      "answer": "salkal"
+      "answer": "סלקל"
     },
     {
       "src": "/assets/babies/shidathchtala.jpg",
-      "answer": "shidathchtala"
+      "answer": "שידת החתלה"
     },
     {
       "src": "/assets/babies/sinar.jpg",
-      "answer": "sinar"
+      "answer": "סינר"
     },
     {
       "src": "/assets/babies/smichattink.jpg",
-      "answer": "smichattink"
+      "answer": "שמיכת תינוק"
     },
     {
       "src": "/assets/babies/sterilizator.jpg",
-      "answer": "sterilizator"
+      "answer": "סטריליזטור"
     },
     {
       "src": "/assets/babies/tamal.jpg",
-      "answer": "tamal"
+      "answer": "תמ''ל"
     },
     {
       "src": "/assets/babies/titulim.jpg",
-      "answer": "titulim"
+      "answer": "חיתולים"
     },
     {
       "src": "/assets/babies/tiulon.jpg",
-      "answer": "tiulon"
+      "answer": "טיולון"
     },
     {
       "src": "/assets/babies/tkhachtala.jpg",
-      "answer": "tkhachtala"
+      "answer": "תיק החתלה"
     }
   ],
   "bakery": [
@@ -436,277 +436,277 @@
   "electrics": [
     {
       "src": "/assets/electrics/AIR CONDITIONER.jpg",
-      "answer": "AIR CONDITIONER"
+      "answer": "מזגן"
     },
     {
       "src": "/assets/electrics/ALARM CLOCK.jpg",
-      "answer": "ALARM CLOCK"
+      "answer": "שעון מעורר"
     },
     {
       "src": "/assets/electrics/BLENDER.jpg",
-      "answer": "BLENDER"
+      "answer": "בלנדר"
     },
     {
       "src": "/assets/electrics/BLOW DRYER.jpg",
-      "answer": "BLOW DRYER"
+      "answer": "מייבש שיער"
     },
     {
       "src": "/assets/electrics/CAMERA.jpg",
-      "answer": "CAMERA"
+      "answer": "מצלמה"
     },
     {
       "src": "/assets/electrics/CHARGER.jpg",
-      "answer": "CHARGER"
+      "answer": "מטען"
     },
     {
       "src": "/assets/electrics/COFFEE MACHINE.jpg",
-      "answer": "COFFEE MACHINE"
+      "answer": "מכונת קפה"
     },
     {
       "src": "/assets/electrics/COMPUTER.jpg",
-      "answer": "COMPUTER"
+      "answer": "מחשב"
     },
     {
       "src": "/assets/electrics/COPY MACHINE.jpg",
-      "answer": "COPY MACHINE"
+      "answer": "מכונת צילום"
     },
     {
       "src": "/assets/electrics/dishwasher.jpg",
-      "answer": "dishwasher"
+      "answer": "מדיח כלים"
     },
     {
       "src": "/assets/electrics/Electric FAN.jpg",
-      "answer": "Electric FAN"
+      "answer": "מאוורר"
     },
     {
       "src": "/assets/electrics/Food Processor.jpg",
-      "answer": "Food Processor"
+      "answer": "מעבד מזון"
     },
     {
       "src": "/assets/electrics/HAIR CURLER.jpg",
-      "answer": "HAIR CURLER"
+      "answer": "מסלסל שיער"
     },
     {
       "src": "/assets/electrics/Headphones.jpg",
-      "answer": "Headphones"
+      "answer": "אוזניות"
     },
     {
       "src": "/assets/electrics/Heat spreader.jpg",
-      "answer": "Heat spreader"
+      "answer": "מפזר חום"
     },
     {
       "src": "/assets/electrics/HEATER.jpg",
-      "answer": "HEATER"
+      "answer": "תנור חימום"
     },
     {
       "src": "/assets/electrics/IRONING MACHINE.jpg",
-      "answer": "IRONING MACHINE"
+      "answer": "מגהץ"
     },
     {
       "src": "/assets/electrics/KETTLE.jpg",
-      "answer": "KETTLE"
+      "answer": "קומקום"
     },
     {
       "src": "/assets/electrics/Keyboard.jpg",
-      "answer": "Keyboard"
+      "answer": "מקלדת"
     },
     {
       "src": "/assets/electrics/LAMB.jpg",
-      "answer": "LAMB"
+      "answer": "מנורה"
     },
     {
       "src": "/assets/electrics/Microwave.jpg",
-      "answer": "Microwave"
+      "answer": "מיקרוגל"
     },
     {
       "src": "/assets/electrics/MIXER.jpg",
-      "answer": "MIXER"
+      "answer": "מיקסר"
     },
     {
       "src": "/assets/electrics/OVEN.jpg",
-      "answer": "OVEN"
+      "answer": "תנור"
     },
     {
       "src": "/assets/electrics/RADIATOR.jpg",
-      "answer": "RADIATOR"
+      "answer": "רדיאטור"
     },
     {
       "src": "/assets/electrics/RADIO.jpg",
-      "answer": "RADIO"
+      "answer": "רדיו"
     },
     {
       "src": "/assets/electrics/Refrigeration.jpg",
-      "answer": "Refrigeration"
+      "answer": "מקרר"
     },
     {
       "src": "/assets/electrics/ROBOT VACCUM.jpg",
-      "answer": "ROBOT VACCUM"
+      "answer": "שואב אבק רובוטי"
     },
     {
       "src": "/assets/electrics/Sandwich Toaster.jpg",
-      "answer": "Sandwich Toaster"
+      "answer": "טוסטר סנדוויצ'ים"
     },
     {
       "src": "/assets/electrics/Shaver.jpg",
-      "answer": "Shaver"
+      "answer": "מכונת גילוח"
     },
     {
       "src": "/assets/electrics/SOUND SPEAKER SYSTEM.jpg",
-      "answer": "SOUND SPEAKER SYSTEM"
+      "answer": "מערכת רמקולים"
     },
     {
       "src": "/assets/electrics/STOVE.jpg",
-      "answer": "STOVE"
+      "answer": "כיריים"
     },
     {
       "src": "/assets/electrics/TAOSTER.jpg",
-      "answer": "TAOSTER"
+      "answer": "טוסטר"
     },
     {
       "src": "/assets/electrics/TELEPHONE.jpg",
-      "answer": "TELEPHONE"
+      "answer": "טלפון"
     },
     {
       "src": "/assets/electrics/TOASTER OVEN.jpg",
-      "answer": "TOASTER OVEN"
+      "answer": "טוסטר אובן"
     },
     {
       "src": "/assets/electrics/VACCUM CLEANER.jpg",
-      "answer": "VACCUM CLEANER"
+      "answer": "שואב אבק"
     },
     {
       "src": "/assets/electrics/Washing Machine.jpg",
-      "answer": "Washing Machine"
+      "answer": "מכונת כביסה"
     },
     {
       "src": "/assets/electrics/WATER BAR.jpg",
-      "answer": "WATER BAR"
+      "answer": "בר מים"
     },
     {
       "src": "/assets/electrics/Wired Computer Mouse.jpg",
-      "answer": "Wired Computer Mouse"
+      "answer": "עכבר מחשב חוטי"
     }
   ],
   "fashion": [
     {
       "src": "/assets/fashion/belt.jpg",
-      "answer": "belt"
+      "answer": "חגורה"
     },
     {
       "src": "/assets/fashion/boots.jpg",
-      "answer": "boots"
+      "answer": "מגפיים"
     },
     {
       "src": "/assets/fashion/capuchon.jpg",
-      "answer": "capuchon"
+      "answer": "קפוצ'ון"
     },
     {
       "src": "/assets/fashion/chafatim.jpg",
-      "answer": "chafatim"
+      "answer": "חפתים"
     },
     {
       "src": "/assets/fashion/chalifa.jpg",
-      "answer": "chalifa"
+      "answer": "חליפה"
     },
     {
       "src": "/assets/fashion/coat.jpg",
-      "answer": "coat"
+      "answer": "מעיל"
     },
     {
       "src": "/assets/fashion/dress.jpg",
-      "answer": "dress"
+      "answer": "שמלה"
     },
     {
       "src": "/assets/fashion/ears.jpg",
-      "answer": "ears"
+      "answer": "מחמם אוזנים"
     },
     {
       "src": "/assets/fashion/garbionim.jpg",
-      "answer": "garbionim"
+      "answer": "גרבונים"
     },
     {
       "src": "/assets/fashion/goves.jpg",
-      "answer": "goves"
+      "answer": "כפפות"
     },
     {
       "src": "/assets/fashion/hat.jpg",
-      "answer": "hat"
+      "answer": "כובע"
     },
     {
       "src": "/assets/fashion/hills.jpg",
-      "answer": "hills"
+      "answer": "נעלי עקב"
     },
     {
       "src": "/assets/fashion/jaket.jpg",
-      "answer": "jaket"
+      "answer": "ז'קט"
     },
     {
       "src": "/assets/fashion/pants.jpg",
-      "answer": "pants"
+      "answer": "מכנסיים"
     },
     {
       "src": "/assets/fashion/pers.jpg",
-      "answer": "pers"
+      "answer": "ארנק"
     },
     {
       "src": "/assets/fashion/sandals.jpg",
-      "answer": "sandals"
+      "answer": "סנדלים"
     },
     {
       "src": "/assets/fashion/sarig.jpg",
-      "answer": "sarig"
+      "answer": "סריג"
     },
     {
       "src": "/assets/fashion/scarf.jpg",
-      "answer": "scarf"
+      "answer": "צעיף"
     },
     {
       "src": "/assets/fashion/shirt.jpg",
-      "answer": "shirt"
+      "answer": "חולצה"
     },
     {
       "src": "/assets/fashion/shorts.jpg",
-      "answer": "shorts"
+      "answer": "מכנסיים קצרים"
     },
     {
       "src": "/assets/fashion/sidebag.jpg",
-      "answer": "sidebag"
+      "answer": "תיק צד"
     },
     {
       "src": "/assets/fashion/skirt.jpg",
-      "answer": "skirt"
+      "answer": "חצאית"
     },
     {
       "src": "/assets/fashion/socks.jpg",
-      "answer": "socks"
+      "answer": "גרביים"
     },
     {
       "src": "/assets/fashion/sunglasses.jpg",
-      "answer": "sunglasses"
+      "answer": "משקפי שמש"
     },
     {
       "src": "/assets/fashion/sunhat.jpg",
-      "answer": "sunhat"
+      "answer": "כובע שמש"
     },
     {
       "src": "/assets/fashion/sweemsuit.jpg",
-      "answer": "sweemsuit"
+      "answer": "בגד ים"
     },
     {
       "src": "/assets/fashion/tarmil.jpg",
-      "answer": "tarmil"
+      "answer": "תרמיל"
     },
     {
       "src": "/assets/fashion/tie.jpg",
-      "answer": "tie"
+      "answer": "עניבה"
     },
     {
       "src": "/assets/fashion/tshirt.jpg",
-      "answer": "tshirt"
+      "answer": "טי-שירט"
     },
     {
       "src": "/assets/fashion/watch.jpg",
-      "answer": "watch"
+      "answer": "שעון"
     }
   ],
   "flags": [
@@ -878,7 +878,7 @@
     },
     {
       "src": "/assets/food/eggSalad.jpg",
-      "answer": "סלט ביצים"
+      "answer": "eggSalad"
     },
     {
       "src": "/assets/food/eshel.jpg",
@@ -962,7 +962,7 @@
     },
     {
       "src": "/assets/food/Stirfriedvegetables.jpg",
-      "answer": "ירקות מוקפצים"
+      "answer": "Stirfriedvegetables"
     },
     {
       "src": "/assets/food/sushi.jpg",
@@ -984,159 +984,159 @@
   "furniture": [
     {
       "src": "/assets/furniture/ARMCHAIR.jpg",
-      "answer": "ARMCHAIR"
+      "answer": "כורסה"
     },
     {
       "src": "/assets/furniture/baby dresser.jpg",
-      "answer": "baby dresser"
+      "answer": "שידת תינוק"
     },
     {
       "src": "/assets/furniture/BAR CHAIR.jpg",
-      "answer": "BAR CHAIR"
+      "answer": "כיסא בר"
     },
     {
       "src": "/assets/furniture/BED.jpg",
-      "answer": "BED"
+      "answer": "מיטה"
     },
     {
       "src": "/assets/furniture/BENCH.jpg",
-      "answer": "BENCH"
+      "answer": "ספסל"
     },
     {
       "src": "/assets/furniture/BODY MIRROR.jpg",
-      "answer": "BODY MIRROR"
+      "answer": "מראת גוף"
     },
     {
       "src": "/assets/furniture/BOOKSHELF.jpg",
-      "answer": "BOOKSHELF"
+      "answer": "כוננית ספרים"
     },
     {
       "src": "/assets/furniture/BUFFET.jpg",
-      "answer": "BUFFET"
+      "answer": "מזנון"
     },
     {
       "src": "/assets/furniture/BUNK BED.jpg",
-      "answer": "BUNK BED"
+      "answer": "מיטת קומותיים"
     },
     {
       "src": "/assets/furniture/CHAIR.jpg",
-      "answer": "CHAIR"
+      "answer": "כיסא"
     },
     {
       "src": "/assets/furniture/Chaise longue.jpg",
-      "answer": "Chaise longue"
+      "answer": "שזלונג"
     },
     {
       "src": "/assets/furniture/CLOSET.jpg",
-      "answer": "CLOSET"
+      "answer": "ארון"
     },
     {
       "src": "/assets/furniture/CLOTHES RACK.jpg",
-      "answer": "CLOTHES RACK"
+      "answer": "מתלה בגדים"
     },
     {
       "src": "/assets/furniture/CRADLE.jpg",
-      "answer": "CRADLE"
+      "answer": "עריסה"
     },
     {
       "src": "/assets/furniture/CRIB.jpg",
-      "answer": "CRIB"
+      "answer": "לול"
     },
     {
       "src": "/assets/furniture/DOOR.jpg",
-      "answer": "DOOR"
+      "answer": "דלת"
     },
     {
       "src": "/assets/furniture/DRAWER.jpg",
-      "answer": "DRAWER"
+      "answer": "מגירה"
     },
     {
       "src": "/assets/furniture/DRESSER.jpg",
-      "answer": "DRESSER"
+      "answer": "שידה"
     },
     {
       "src": "/assets/furniture/Dressing Table.jpg",
-      "answer": "Dressing Table"
+      "answer": "שולחן איפור"
     },
     {
       "src": "/assets/furniture/FACE MIRROR.jpg",
-      "answer": "FACE MIRROR"
+      "answer": "מראת פנים"
     },
     {
       "src": "/assets/furniture/FOLDING TABLE.jpg",
-      "answer": "FOLDING TABLE"
+      "answer": "שולחן מתקפל"
     },
     {
       "src": "/assets/furniture/FOOTSTOOL.jpg",
-      "answer": "FOOTSTOOL"
+      "answer": "הדום"
     },
     {
       "src": "/assets/furniture/LAUNDRY HANGER.jpg",
-      "answer": "LAUNDRY HANGER"
+      "answer": "מתלה כביסה"
     },
     {
       "src": "/assets/furniture/massage chair.jpg",
-      "answer": "massage chair"
+      "answer": "כיסא עיסוי"
     },
     {
       "src": "/assets/furniture/MATRESS.jpg",
-      "answer": "MATRESS"
+      "answer": "מזרן"
     },
     {
       "src": "/assets/furniture/NIGHTSTAND.jpg",
-      "answer": "NIGHTSTAND"
+      "answer": "שידת לילה"
     },
     {
       "src": "/assets/furniture/OFFICE CHAIR.jpg",
-      "answer": "OFFICE CHAIR"
+      "answer": "כיסא משרדי"
     },
     {
       "src": "/assets/furniture/OFFICE TABLE.jpg",
-      "answer": "OFFICE TABLE"
+      "answer": "שולחן משרדי"
     },
     {
       "src": "/assets/furniture/SCHOOL TABLE.jpg",
-      "answer": "SCHOOL TABLE"
+      "answer": "שולחן לימודים"
     },
     {
       "src": "/assets/furniture/Serving Trolley.jpg",
-      "answer": "Serving Trolley"
+      "answer": "עגלת הגשה"
     },
     {
       "src": "/assets/furniture/SHELF.jpg",
-      "answer": "SHELF"
+      "answer": "מדף"
     },
     {
       "src": "/assets/furniture/SHOES RACK.jpg",
-      "answer": "SHOES RACK"
+      "answer": "מתקן לנעליים"
     },
     {
       "src": "/assets/furniture/SHOWCASE.jpg",
-      "answer": "SHOWCASE"
+      "answer": "ויטרינה"
     },
     {
       "src": "/assets/furniture/SINK.jpg",
-      "answer": "SINK"
+      "answer": "כיור"
     },
     {
       "src": "/assets/furniture/SOFA.jpg",
-      "answer": "SOFA"
+      "answer": "ספה"
     },
     {
       "src": "/assets/furniture/stender.jpg",
-      "answer": "stender"
+      "answer": "סטנדר"
     },
     {
       "src": "/assets/furniture/STOOL.jpg",
-      "answer": "STOOL"
+      "answer": "שרפרף"
     },
     {
       "src": "/assets/furniture/TOILET.jpg",
-      "answer": "TOILET"
+      "answer": "אסלה"
     },
     {
       "src": "/assets/furniture/Wheelchair.jpg",
-      "answer": "Wheelchair"
+      "answer": "כיסא גלגלים"
     }
   ],
   "hagim": [
@@ -1146,131 +1146,131 @@
     },
     {
       "src": "/assets/hagim/clown.jpg",
-      "answer": "clown"
+      "answer": "ליצן"
     },
     {
       "src": "/assets/hagim/degel.jpg",
-      "answer": "degel"
+      "answer": "דגל"
     },
     {
       "src": "/assets/hagim/dmeihnuka.jpg",
-      "answer": "dmeihnuka"
+      "answer": "דמי חנוכה"
     },
     {
       "src": "/assets/hagim/donats.jpg",
-      "answer": "donats"
+      "answer": "סופגניות"
     },
     {
       "src": "/assets/hagim/etrog.jpg",
-      "answer": "etrog"
+      "answer": "אתרוג"
     },
     {
       "src": "/assets/hagim/halaagula.jpg",
-      "answer": "halaagula"
+      "answer": "חלה עגולה"
     },
     {
       "src": "/assets/hagim/halatmafteach.jpg",
-      "answer": "halatmafteach"
+      "answer": "חלת מפתח"
     },
     {
       "src": "/assets/hagim/hanukia.jpg",
-      "answer": "hanukia"
+      "answer": "חנוכייה"
     },
     {
       "src": "/assets/hagim/haroset.jpg",
-      "answer": "haroset"
+      "answer": "חרוסת"
     },
     {
       "src": "/assets/hagim/harsinai.jpg",
-      "answer": "harsinai"
+      "answer": "הר סיני"
     },
     {
       "src": "/assets/hagim/kadshemen.jpg",
-      "answer": "kadshemen"
+      "answer": "כד שמן"
     },
     {
       "src": "/assets/hagim/kartisshanatova.jpg",
-      "answer": "kartisshanatova"
+      "answer": "כרטיס שנה טובה"
     },
     {
       "src": "/assets/hagim/kearatleilhaseder.jpg",
-      "answer": "kearatleilhaseder"
+      "answer": "קערת ליל הסדר"
     },
     {
       "src": "/assets/hagim/kishutsuka.jpg",
-      "answer": "kishutsuka"
+      "answer": "קישוט סוכה"
     },
     {
       "src": "/assets/hagim/kitel.jpg",
-      "answer": "kitel"
+      "answer": "קיטל"
     },
     {
       "src": "/assets/hagim/kreplach.jpg",
-      "answer": "kreplach"
+      "answer": "קרפלך"
     },
     {
       "src": "/assets/hagim/luchothabrit.jpg",
-      "answer": "luchothabrit"
+      "answer": "לוחות הברית"
     },
     {
       "src": "/assets/hagim/lulav.jpg",
-      "answer": "lulav"
+      "answer": "לולב"
     },
     {
       "src": "/assets/hagim/maachaleihalav.jpg",
-      "answer": "maachaleihalav"
+      "answer": "מאכלי חלב"
     },
     {
       "src": "/assets/hagim/masecha.jpg",
-      "answer": "masecha"
+      "answer": "מסכה"
     },
     {
       "src": "/assets/hagim/matzot.jpg",
-      "answer": "matzot"
+      "answer": "מצות"
     },
     {
       "src": "/assets/hagim/megila.jpg",
-      "answer": "megila"
+      "answer": "מגילה"
     },
     {
       "src": "/assets/hagim/mishloachmanot.jpg",
-      "answer": "mishloachmanot"
+      "answer": "משלוח מנות"
     },
     {
       "src": "/assets/hagim/ozneyhaman.jpg",
-      "answer": "ozneyhaman"
+      "answer": "אוזני המן"
     },
     {
       "src": "/assets/hagim/raashan.jpg",
-      "answer": "raashan"
+      "answer": "רעשן"
     },
     {
       "src": "/assets/hagim/rimon.jpg",
-      "answer": "rimon"
+      "answer": "רימון"
     },
     {
       "src": "/assets/hagim/salbikurim.jpg",
-      "answer": "salbikurim"
+      "answer": "סל ביכורים"
     },
     {
       "src": "/assets/hagim/sefertora.jpg",
-      "answer": "sefertora"
+      "answer": "ספר תורה"
     },
     {
       "src": "/assets/hagim/seudatpurim.jpg",
-      "answer": "seudatpurim"
+      "answer": "סעודת פורים"
     },
     {
       "src": "/assets/hagim/sfinj.jpg",
-      "answer": "sfinj"
+      "answer": "ספינג׳"
     },
     {
       "src": "/assets/hagim/shofar.jpg",
-      "answer": "shofar"
+      "answer": "שופר"
     },
     {
       "src": "/assets/hagim/srefathametz.jpg",
-      "answer": "srefathametz"
+      "answer": "שריפת חמץ"
     },
     {
       "src": "/assets/hagim/sufgania.jpg",
@@ -1278,109 +1278,109 @@
     },
     {
       "src": "/assets/hagim/suka.jpg",
-      "answer": "suka"
+      "answer": "סוכה"
     },
     {
       "src": "/assets/hagim/svivon.jpg",
-      "answer": "svivon"
+      "answer": "סביבון"
     },
     {
       "src": "/assets/hagim/tapuacinaonny.jpg",
-      "answer": "tapuacinaonny"
+      "answer": "תפוח בדבש"
     }
   ],
   "motag": [
     {
       "src": "/assets/motag/adidas.png",
-      "answer": "adidas"
+      "answer": "אדידס"
     },
     {
       "src": "/assets/motag/android.png",
-      "answer": "android"
+      "answer": "אנדרואיד"
     },
     {
       "src": "/assets/motag/apple.png",
-      "answer": "apple"
+      "answer": "אפל"
     },
     {
       "src": "/assets/motag/azrielimall.png",
-      "answer": "azrielimall"
+      "answer": "קניון אזריאלי"
     },
     {
       "src": "/assets/motag/bneybrak.jpg",
-      "answer": "bneybrak"
+      "answer": "בני ברק"
     },
     {
       "src": "/assets/motag/celvinklein.png",
-      "answer": "celvinklein"
+      "answer": "קלבין קליין"
     },
     {
       "src": "/assets/motag/chanel.png",
-      "answer": "chanel"
+      "answer": "שאנל"
     },
     {
       "src": "/assets/motag/cocacola.png",
-      "answer": "cocacola"
+      "answer": "קוקה קולה"
     },
     {
       "src": "/assets/motag/delta.jpg",
-      "answer": "delta"
+      "answer": "דלתא"
     },
     {
       "src": "/assets/motag/dirshu.jpg",
-      "answer": "dirshu"
+      "answer": "דרשו"
     },
     {
       "src": "/assets/motag/elit.png",
-      "answer": "elit"
+      "answer": "עלית"
     },
     {
       "src": "/assets/motag/explorer.jpg",
-      "answer": "explorer"
+      "answer": "אקספלורר"
     },
     {
       "src": "/assets/motag/gucci.jpg",
-      "answer": "gucci"
+      "answer": "גוצ'י"
     },
     {
       "src": "/assets/motag/itvata.jpg",
-      "answer": "itvata"
+      "answer": "יטבתה"
     },
     {
       "src": "/assets/motag/lacost.jpg",
-      "answer": "lacost"
+      "answer": "לקוסט"
     },
     {
       "src": "/assets/motag/microsoft.jpg",
-      "answer": "microsoft"
+      "answer": "מיקרוסופט"
     },
     {
       "src": "/assets/motag/nike.png",
-      "answer": "nike"
+      "answer": "נייקי"
     },
     {
       "src": "/assets/motag/osem.png",
-      "answer": "osem"
+      "answer": "אוסם"
     },
     {
       "src": "/assets/motag/pandora.jpg",
-      "answer": "pandora"
+      "answer": "פנדורה"
     },
     {
       "src": "/assets/motag/paypal.png",
-      "answer": "paypal"
+      "answer": "פייפאל"
     },
     {
       "src": "/assets/motag/pepsi.png",
-      "answer": "pepsi"
+      "answer": "פפסי"
     },
     {
       "src": "/assets/motag/polo.jpg",
-      "answer": "polo"
+      "answer": "פולו"
     },
     {
       "src": "/assets/motag/puma.png",
-      "answer": "puma"
+      "answer": "פומה"
     },
     {
       "src": "/assets/motag/rachelH.jpg",
@@ -1388,361 +1388,361 @@
     },
     {
       "src": "/assets/motag/reebok.png",
-      "answer": "reebok"
+      "answer": "ריבוק"
     },
     {
       "src": "/assets/motag/shtraus.jpg",
-      "answer": "shtraus"
+      "answer": "שטראוס"
     },
     {
       "src": "/assets/motag/temu.png",
-      "answer": "temu"
+      "answer": "טימו"
     },
     {
       "src": "/assets/motag/tnuva.jpg",
-      "answer": "tnuva"
+      "answer": "תנובה"
     },
     {
       "src": "/assets/motag/tommy.jpg",
-      "answer": "tommy"
+      "answer": "טומי"
     },
     {
       "src": "/assets/motag/twitter.png",
-      "answer": "twitter"
+      "answer": "טוויטר"
     },
     {
       "src": "/assets/motag/waze.jpg",
-      "answer": "waze"
+      "answer": "ווייז"
     },
     {
       "src": "/assets/motag/xiaomi.png",
-      "answer": "xiaomi"
+      "answer": "שיאומי"
     },
     {
       "src": "/assets/motag/youtube.png",
-      "answer": "youtube"
+      "answer": "יוטיוב"
     },
     {
       "src": "/assets/motag/zoom.jpg",
-      "answer": "zoom"
+      "answer": "זום"
     }
   ],
   "music": [
     {
       "src": "/assets/music/accordon.jpg",
-      "answer": "accordon"
+      "answer": "אקורדיון"
     },
     {
       "src": "/assets/music/Amplificationequipment.jpg",
-      "answer": "Amplificationequipment"
+      "answer": "ציוד הגברה"
     },
     {
       "src": "/assets/music/caletet.jpg",
-      "answer": "caletet"
+      "answer": "קלטת קסטה"
     },
     {
       "src": "/assets/music/chalilit.jpg",
-      "answer": "chalilit"
+      "answer": "חלילית"
     },
     {
       "src": "/assets/music/chelo.jpg",
-      "answer": "chelo"
+      "answer": "צ'לו"
     },
     {
       "src": "/assets/music/Derbake.jpg",
-      "answer": "Derbake"
+      "answer": "דרבוקה"
     },
     {
       "src": "/assets/music/disc.jpg",
-      "answer": "disc"
+      "answer": "תקליט"
     },
     {
       "src": "/assets/music/djstaton.jpg",
-      "answer": "djstaton"
+      "answer": "תחנת די ג'יי"
     },
     {
       "src": "/assets/music/drums.jpg",
-      "answer": "drums"
+      "answer": "תופים"
     },
     {
       "src": "/assets/music/electriicguitaar.jpg",
-      "answer": "electriicguitaar"
+      "answer": "גיטרה חשמלית"
     },
     {
       "src": "/assets/music/guiter.jpg",
-      "answer": "guiter"
+      "answer": "גיטרה"
     },
     {
       "src": "/assets/music/kachon.jpg",
-      "answer": "kachon"
+      "answer": "כָּחוֹן"
     },
     {
       "src": "/assets/music/kanon.jpg",
-      "answer": "kanon"
+      "answer": "קאנון"
     },
     {
       "src": "/assets/music/klarinet.jpg",
-      "answer": "klarinet"
+      "answer": "קלרינט"
     },
     {
       "src": "/assets/music/mandolina.jpg",
-      "answer": "mandolina"
+      "answer": "מנדולינה"
     },
     {
       "src": "/assets/music/mapuchit.jpg",
-      "answer": "mapuchit"
+      "answer": "מַפּוּכִית"
     },
     {
       "src": "/assets/music/melodica.jpg",
-      "answer": "melodica"
+      "answer": "מלודיקה"
     },
     {
       "src": "/assets/music/meshulash.jpg",
-      "answer": "meshulash"
+      "answer": "משולש"
     },
     {
       "src": "/assets/music/metziltaim.jpg",
-      "answer": "metziltaim"
+      "answer": "מצילות"
     },
     {
       "src": "/assets/music/microfone.jpg",
-      "answer": "microfone"
+      "answer": "מיקרופון"
     },
     {
       "src": "/assets/music/mixer.jpg",
-      "answer": "mixer"
+      "answer": "מיקסר"
     },
     {
       "src": "/assets/music/nevel.jpg",
-      "answer": "nevel"
+      "answer": "נבל"
     },
     {
       "src": "/assets/music/notebook.jpg",
-      "answer": "notebook"
+      "answer": "מחברת תווים"
     },
     {
       "src": "/assets/music/notekey.png",
-      "answer": "notekey"
+      "answer": "מפתח סול"
     },
     {
       "src": "/assets/music/notes.jpg",
-      "answer": "notes"
+      "answer": "תווים"
     },
     {
       "src": "/assets/music/organt.jpg",
-      "answer": "organt"
+      "answer": "אורגן"
     },
     {
       "src": "/assets/music/ozniot.jpg",
-      "answer": "ozniot"
+      "answer": "תופים אוזניים"
     },
     {
       "src": "/assets/music/patifon.jpg",
-      "answer": "patifon"
+      "answer": "פטיפון"
     },
     {
       "src": "/assets/music/piano.jpg",
-      "answer": "piano"
+      "answer": "פסנתר"
     },
     {
       "src": "/assets/music/record.jpg",
-      "answer": "record"
+      "answer": "תקליט"
     },
     {
       "src": "/assets/music/recordulpan.jpg",
-      "answer": "recordulpan"
+      "answer": "תקליט אולפן"
     },
     {
       "src": "/assets/music/saxofon.jpg",
-      "answer": "saxofon"
+      "answer": "סקסופון"
     },
     {
       "src": "/assets/music/Tambourine.jpg",
-      "answer": "Tambourine"
+      "answer": "תוף מרים"
     },
     {
       "src": "/assets/music/trombon.jpg",
-      "answer": "trombon"
+      "answer": "טרומבון"
     },
     {
       "src": "/assets/music/trumpet.jpg",
-      "answer": "trumpet"
+      "answer": "חצוצרה"
     },
     {
       "src": "/assets/music/violin.jpg",
-      "answer": "violin"
+      "answer": "כינור"
     },
     {
       "src": "/assets/music/Wirelessspeaker.jpg",
-      "answer": "Wirelessspeaker"
+      "answer": "רמקול אלחוטי"
     }
   ],
   "nature": [
     {
       "src": "/assets/nature/aleishalechet.jpg",
-      "answer": "aleishalechet"
+      "answer": "עלי שלכת"
     },
     {
       "src": "/assets/nature/barak.jpg",
-      "answer": "barak"
+      "answer": "ברק"
     },
     {
       "src": "/assets/nature/beach.jpg",
-      "answer": "beach"
+      "answer": "חוף ים"
     },
     {
       "src": "/assets/nature/bush.jpg",
-      "answer": "bush"
+      "answer": "שיח"
     },
     {
       "src": "/assets/nature/butterfly.jpg",
-      "answer": "butterfly"
+      "answer": "פרפר"
     },
     {
       "src": "/assets/nature/cave.jpg",
-      "answer": "cave"
+      "answer": "מערה"
     },
     {
       "src": "/assets/nature/desert.jpg",
-      "answer": "desert"
+      "answer": "מדבר"
     },
     {
       "src": "/assets/nature/flower.jpg",
-      "answer": "flower"
+      "answer": "פרח"
     },
     {
       "src": "/assets/nature/forest.jpg",
-      "answer": "forest"
+      "answer": "יער"
     },
     {
       "src": "/assets/nature/grass.jpg",
-      "answer": "grass"
+      "answer": "דשא"
     },
     {
       "src": "/assets/nature/ice.jpg",
-      "answer": "ice"
+      "answer": "קרח"
     },
     {
       "src": "/assets/nature/keshet.jpg",
-      "answer": "keshet"
+      "answer": "קשת"
     },
     {
       "src": "/assets/nature/lake.jpg",
-      "answer": "lake"
+      "answer": "אגם"
     },
     {
       "src": "/assets/nature/land.jpg",
-      "answer": "land"
+      "answer": "אדמה"
     },
     {
       "src": "/assets/nature/leave.jpg",
-      "answer": "leave"
+      "answer": "עלה"
     },
     {
       "src": "/assets/nature/moon.jpg",
-      "answer": "moon"
+      "answer": "ירח"
     },
     {
       "src": "/assets/nature/mountain.jpg",
-      "answer": "mountain"
+      "answer": "הר"
     },
     {
       "src": "/assets/nature/netifim.jpg",
-      "answer": "netifim"
+      "answer": "נטיפים"
     },
     {
       "src": "/assets/nature/pardes.jpg",
-      "answer": "pardes"
+      "answer": "פרדס"
     },
     {
       "src": "/assets/nature/river.jpg",
-      "answer": "river"
+      "answer": "נהר"
     },
     {
       "src": "/assets/nature/sea.jpg",
-      "answer": "sea"
+      "answer": "ים"
     },
     {
       "src": "/assets/nature/sky.jpg",
-      "answer": "sky"
+      "answer": "שמים"
     },
     {
       "src": "/assets/nature/snow.jpg",
-      "answer": "snow"
+      "answer": "שלג"
     },
     {
       "src": "/assets/nature/stars.jpg",
-      "answer": "stars"
+      "answer": "כוכבים"
     },
     {
       "src": "/assets/nature/sun.jpg",
-      "answer": "sun"
+      "answer": "שמש"
     },
     {
       "src": "/assets/nature/sunrise.jpg",
-      "answer": "sunrise"
+      "answer": "זריחה"
     },
     {
       "src": "/assets/nature/sunset.jpg",
-      "answer": "sunset"
+      "answer": "שקיעה"
     },
     {
       "src": "/assets/nature/tree.jpg",
-      "answer": "tree"
+      "answer": "עץ"
     },
     {
       "src": "/assets/nature/tzdafim.jpg",
-      "answer": "tzdafim"
+      "answer": "צדפים"
     },
     {
       "src": "/assets/nature/volcano.jpg",
-      "answer": "volcano"
+      "answer": "הר געש"
     },
     {
       "src": "/assets/nature/waterfall.jpg",
-      "answer": "waterfall"
+      "answer": "מפל"
     },
     {
       "src": "/assets/nature/waves.jpg",
-      "answer": "waves"
+      "answer": "גלים"
     }
   ],
   "onroad": [
     {
       "src": "/assets/onroad/airplane.jpg",
-      "answer": "airplane"
+      "answer": "מטוס"
     },
     {
       "src": "/assets/onroad/ambulance.jpg",
-      "answer": "ambulance"
+      "answer": "אמבולנס"
     },
     {
       "src": "/assets/onroad/bike.jpg",
-      "answer": "bike"
+      "answer": "אופניים"
     },
     {
       "src": "/assets/onroad/boat.jpg",
-      "answer": "boat"
+      "answer": "סירה"
     },
     {
       "src": "/assets/onroad/bridge.jpg",
-      "answer": "bridge"
+      "answer": "גשר"
     },
     {
       "src": "/assets/onroad/bus.jpg",
-      "answer": "bus"
+      "answer": "אוטובוס"
     },
     {
       "src": "/assets/onroad/busstation.jpg",
-      "answer": "busstation"
+      "answer": "תחנת אוטובוס"
     },
     {
       "src": "/assets/onroad/cargotrain.jpg",
-      "answer": "cargotrain"
+      "answer": "רכבת מטענים"
     },
     {
       "src": "/assets/onroad/firetruck.jpg",
-      "answer": "firetruck"
+      "answer": "כבאית"
     },
     {
       "src": "/assets/onroad/Garcigetruck.jpg",
@@ -1750,367 +1750,367 @@
     },
     {
       "src": "/assets/onroad/hatzala.jpg",
-      "answer": "hatzala"
+      "answer": "הצלה"
     },
     {
       "src": "/assets/onroad/helicopter.jpg",
-      "answer": "helicopter"
+      "answer": "מסוק"
     },
     {
       "src": "/assets/onroad/helmet.jpg",
-      "answer": "helmet"
+      "answer": "קסדה"
     },
     {
       "src": "/assets/onroad/kavhafrada.jpg",
-      "answer": "kavhafrada"
+      "answer": "כביש פרדה"
     },
     {
       "src": "/assets/onroad/maavarchtzia.jpg",
-      "answer": "maavarchtzia"
+      "answer": "מעבר חציה"
     },
     {
       "src": "/assets/onroad/motorcycle.jpg",
-      "answer": "motorcycle"
+      "answer": "אופנוע"
     },
     {
       "src": "/assets/onroad/paseihaata.jpg",
-      "answer": "paseihaata"
+      "answer": "פסי האטה"
     },
     {
       "src": "/assets/onroad/policecar.jpg",
-      "answer": "policecar"
+      "answer": "ניידת משטרה"
     },
     {
       "src": "/assets/onroad/privateplane.jpg",
-      "answer": "privateplane"
+      "answer": "מטוס פרטי"
     },
     {
       "src": "/assets/onroad/rakebel.jpg",
-      "answer": "rakebel"
+      "answer": "רכבל"
     },
     {
       "src": "/assets/onroad/redcar.jpg",
-      "answer": "redcar"
+      "answer": "רכב אדום"
     },
     {
       "src": "/assets/onroad/road.jpg",
-      "answer": "road"
+      "answer": "כביש"
     },
     {
       "src": "/assets/onroad/schoolbus.jpg",
-      "answer": "schoolbus"
+      "answer": "אוטובוס בית ספר"
     },
     {
       "src": "/assets/onroad/ship.jpg",
-      "answer": "ship"
+      "answer": "ספינה"
     },
     {
       "src": "/assets/onroad/stopsign.jpg",
-      "answer": "stopsign"
+      "answer": "תמרור עצור"
     },
     {
       "src": "/assets/onroad/taxi.jpg",
-      "answer": "taxi"
+      "answer": "מונית"
     },
     {
       "src": "/assets/onroad/tipulnimratz.jpg",
-      "answer": "tipulnimratz"
+      "answer": "טיפול נמרץ"
     },
     {
       "src": "/assets/onroad/trafficjam.jpg",
-      "answer": "trafficjam"
+      "answer": "פקק תנועה"
     },
     {
       "src": "/assets/onroad/traficlight.jpg",
-      "answer": "traficlight"
+      "answer": "רמזור"
     },
     {
       "src": "/assets/onroad/train.jpg",
-      "answer": "train"
+      "answer": "רכבת"
     },
     {
       "src": "/assets/onroad/trainstation.jpg",
-      "answer": "trainstation"
+      "answer": "תחנת רכבת"
     },
     {
       "src": "/assets/onroad/truck.jpg",
-      "answer": "truck"
+      "answer": "משאית"
     },
     {
       "src": "/assets/onroad/twofloorsbus.jpg",
-      "answer": "twofloorsbus"
+      "answer": "אוטובוס דו קומתי"
     }
   ],
   "rabanim": [
     {
       "src": "/assets/rabanim/admor migur.jpg",
-      "answer": "admor migur"
+      "answer": "אדמור מגור"
     },
     {
       "src": "/assets/rabanim/benishchai.jpg",
-      "answer": "benishchai"
+      "answer": "הבן איש חי"
     },
     {
       "src": "/assets/rabanim/btzashaul.jpg",
-      "answer": "btzashaul"
+      "answer": "רבי בן ציון אבא שאול"
     },
     {
       "src": "/assets/rabanim/desler.jpg",
-      "answer": "desler"
+      "answer": "הרבה דסלר"
     },
     {
       "src": "/assets/rabanim/gedelshtein.jpg",
-      "answer": "gedelshtein"
+      "answer": "ר גרשון אדלשטיין"
     },
     {
       "src": "/assets/rabanim/grosbard.jpg",
-      "answer": "grosbard"
+      "answer": "ר צבי שרגא גרוסברד"
     },
     {
       "src": "/assets/rabanim/habasali.jpg",
-      "answer": "habasali"
+      "answer": "הבאבא סאלי"
     },
     {
       "src": "/assets/rabanim/hafetzhaim.jpg",
-      "answer": "hafetzhaim"
+      "answer": "החפץ חיים"
     },
     {
       "src": "/assets/rabanim/haravelyashiv.jpg",
-      "answer": "haravelyashiv"
+      "answer": "הרב אליישיב"
     },
     {
       "src": "/assets/rabanim/haravshach.jpg",
-      "answer": "haravshach"
+      "answer": "הרב שך"
     },
     {
       "src": "/assets/rabanim/harvovadia.jpg",
-      "answer": "harvovadia"
+      "answer": "הרב עובדיה"
     },
     {
       "src": "/assets/rabanim/hastaypeler.jpg",
-      "answer": "hastaypeler"
+      "answer": "הסטייפלר"
     },
     {
       "src": "/assets/rabanim/hatamsofer.jpg",
-      "answer": "hatamsofer"
+      "answer": "החתם סופר"
     },
     {
       "src": "/assets/rabanim/kanievski.jpg",
-      "answer": "kanievski"
+      "answer": "ר חיים קנייבסקי"
     },
     {
       "src": "/assets/rabanim/rdavidabuchaztira.jpg",
-      "answer": "rdavidabuchaztira"
+      "answer": "ר' דוד אבוחצירא"
     },
     {
       "src": "/assets/rabanim/rdovkuk.jpg",
-      "answer": "rdovkuk"
+      "answer": "ר' דוב קוק"
     },
     {
       "src": "/assets/rabanim/rdovlando.jpg",
-      "answer": "rdovlando"
+      "answer": "ר' דוב לנדו"
     },
     {
       "src": "/assets/rabanim/rezrachi.jpg",
-      "answer": "rezrachi"
+      "answer": "הרב ברוך מרדכי אזרחי"
     },
     {
       "src": "/assets/rabanim/rfainshtein.jpg",
-      "answer": "rfainshtein"
+      "answer": "ר' משה פיינשטיין"
     },
     {
       "src": "/assets/rabanim/rhirsh.jpg",
-      "answer": "rhirsh"
+      "answer": "ר' משה הלל הירש"
     },
     {
       "src": "/assets/rabanim/rigalkohen.jpg",
-      "answer": "rigalkohen"
+      "answer": "ר' יגאל כהן"
     },
     {
       "src": "/assets/rabanim/rlubavich.jpg",
-      "answer": "rlubavich"
+      "answer": "הרבי מילובביץ"
     },
     {
       "src": "/assets/rabanim/rmordechaieliyhu.jpg",
-      "answer": "rmordechaieliyhu"
+      "answer": "ר' מרדכי אליהו"
     },
     {
       "src": "/assets/rabanim/rshlomoamar.jpg",
-      "answer": "rshlomoamar"
+      "answer": "ר' שלמה עמר"
     },
     {
       "src": "/assets/rabanim/rshzoeirbaach.jpg",
-      "answer": "rshzoeirbaach"
+      "answer": "ר' שלמה זמן אוירבעך"
     },
     {
       "src": "/assets/rabanim/ryoramabargel.jpg",
-      "answer": "ryoramabargel"
+      "answer": "הרב יורם אברג'ל"
     },
     {
       "src": "/assets/rabanim/shteiman.jpg",
-      "answer": "shteiman"
+      "answer": "הרב שטיימן"
     },
     {
       "src": "/assets/rabanim/yedelshtein.jpg",
-      "answer": "yedelshtein"
+      "answer": "ר' יעקב אדלשטיין"
     },
     {
       "src": "/assets/rabanim/zilberstain.jpg",
-      "answer": "zilberstain"
+      "answer": "הרב יצחק זילברשטיין"
     }
   ],
   "school": [
     {
       "src": "/assets/school/Backpacks.jpg",
-      "answer": "Backpacks"
+      "answer": "תיקים"
     },
     {
       "src": "/assets/school/BALL.jpg",
-      "answer": "BALL"
+      "answer": "כדור"
     },
     {
       "src": "/assets/school/BOOKS.jpg",
-      "answer": "BOOKS"
+      "answer": "ספרים"
     },
     {
       "src": "/assets/school/CALCULATOR.jpg",
-      "answer": "CALCULATOR"
+      "answer": "מחשבון"
     },
     {
       "src": "/assets/school/CALENDER.jpg",
-      "answer": "CALENDER"
+      "answer": "לוח שנה"
     },
     {
       "src": "/assets/school/calipers.jpg",
-      "answer": "calipers"
+      "answer": "מחוגה"
     },
     {
       "src": "/assets/school/CARYONS.jpg",
-      "answer": "CARYONS"
+      "answer": "צבעים"
     },
     {
       "src": "/assets/school/CLASS DIARY.jpg",
-      "answer": "CLASS DIARY"
+      "answer": "יומן כיתה"
     },
     {
       "src": "/assets/school/CLASSROOM.jpg",
-      "answer": "CLASSROOM"
+      "answer": "כיתה"
     },
     {
       "src": "/assets/school/COLOR PENCILS.jpg",
-      "answer": "COLOR PENCILS"
+      "answer": "עפרונות צבעוניים"
     },
     {
       "src": "/assets/school/EARASER.jpg",
-      "answer": "EARASER"
+      "answer": "מחק"
     },
     {
       "src": "/assets/school/FOLDER.jpg",
-      "answer": "FOLDER"
+      "answer": "תיקייה"
     },
     {
       "src": "/assets/school/FOOD BOX.jpg",
-      "answer": "FOOD BOX"
+      "answer": "קופסת אוכל"
     },
     {
       "src": "/assets/school/GLUE STICK.jpg",
-      "answer": "GLUE STICK"
+      "answer": "דבק סטיק"
     },
     {
       "src": "/assets/school/JOT GLUE GUN.jpg",
-      "answer": "JOT GLUE GUN"
+      "answer": "אקדח דבק"
     },
     {
       "src": "/assets/school/LIBRARY.jpg",
-      "answer": "LIBRARY"
+      "answer": "ספרייה"
     },
     {
       "src": "/assets/school/MARKER.jpg",
-      "answer": "MARKER"
+      "answer": "טוש"
     },
     {
       "src": "/assets/school/MATH NOTEBOOK.jpg",
-      "answer": "MATH NOTEBOOK"
+      "answer": "מחברת מתמטיקה"
     },
     {
       "src": "/assets/school/MECHANIC PENCIL.jpg",
-      "answer": "MECHANIC PENCIL"
+      "answer": "עיפרון שפיצים"
     },
     {
       "src": "/assets/school/NOTEBOOK.jpg",
-      "answer": "NOTEBOOK"
+      "answer": "מחברת תווים"
     },
     {
       "src": "/assets/school/PEN.jpg",
-      "answer": "PEN"
+      "answer": "עט"
     },
     {
       "src": "/assets/school/PENCIL CASE.jpg",
-      "answer": "PENCIL CASE"
+      "answer": "קלמר"
     },
     {
       "src": "/assets/school/PENCIL.jpg",
-      "answer": "PENCIL"
+      "answer": "עיפרון"
     },
     {
       "src": "/assets/school/ROPE.jpg",
-      "answer": "ROPE"
+      "answer": "חבל"
     },
     {
       "src": "/assets/school/RULER.jpg",
-      "answer": "RULER"
+      "answer": "סרגל"
     },
     {
       "src": "/assets/school/SCHOOL CORRIDOR.jpg",
-      "answer": "SCHOOL CORRIDOR"
+      "answer": "מסדרון בית ספר"
     },
     {
       "src": "/assets/school/SCISSORS.jpg",
-      "answer": "SCISSORS"
+      "answer": "מספריים"
     },
     {
       "src": "/assets/school/SHERPNER.jpg",
-      "answer": "SHERPNER"
+      "answer": "מחדד עפרונות"
     },
     {
       "src": "/assets/school/STAPLER.jpg",
-      "answer": "STAPLER"
+      "answer": "מהדק נייר"
     },
     {
       "src": "/assets/school/STICKY NOTES.jpg",
-      "answer": "STICKY NOTES"
+      "answer": "פתקי דבק"
     },
     {
       "src": "/assets/school/STUDENT CHAIR.jpg",
-      "answer": "STUDENT CHAIR"
+      "answer": "כסא תלמיד"
     },
     {
       "src": "/assets/school/TEACHER CHAIR.jpg",
-      "answer": "TEACHER CHAIR"
+      "answer": "כסא מורה"
     },
     {
       "src": "/assets/school/Teacher.jpg",
-      "answer": "Teacher"
+      "answer": "מורה"
     },
     {
       "src": "/assets/school/TORAH NOTEBOOK.jpg",
-      "answer": "TORAH NOTEBOOK"
+      "answer": "מחברת תורה"
     },
     {
       "src": "/assets/school/WATER BOTTLE.jpg",
-      "answer": "WATER BOTTLE"
+      "answer": "בקבוק מים"
     },
     {
       "src": "/assets/school/Whiteboard Eraser.jpg",
-      "answer": "Whiteboard Eraser"
+      "answer": "מחק לוח"
     },
     {
       "src": "/assets/school/WHITEBOARD MARKER.jpg",
-      "answer": "WHITEBOARD MARKER"
+      "answer": "טוש ללוח"
     },
     {
       "src": "/assets/school/WHITEBOARD.jpg",
-      "answer": "WHITEBOARD"
+      "answer": "לוח מחיק"
     }
   ]
 }

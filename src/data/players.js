@@ -1,8 +1,8 @@
 export const initialPlayers = [
   { id: 1, ownerId: 1, name: "אבא", topic: "food", color: "red" },
   { id: 2, ownerId: 2, name: "אמא", topic: "animals", color: "gray" },
-  { id: 3, ownerId: 3, name: "רותי", topic: "flags", color: "green" },
-  { id: 4, ownerId: 4, name: "אורי", topic: "music", color: "yellow" },
+  { id: 3, ownerId: 3, name: "יהושע", topic: "flags", color: "green" },
+  { id: 4, ownerId: 4, name: "שלומי", topic: "music", color: "yellow" },
   { id: 5, ownerId: 5, name: "נחמי", topic: "electrics", color: "blue" },
   { id: 6, ownerId: 6, name: "מנחם", topic: "motag", color: "beige" },
   { id: 7, ownerId: 7, name: "חוי", topic: "rabanim", color: "gold" },

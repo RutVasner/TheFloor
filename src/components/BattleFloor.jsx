@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-
+import { hebrewTopic } from "../data/players";
 export function BattleFloor({ battle, onEnd }) {
   const { p1, p2, topic } = battle;
   const [images, setImages] = useState([]);
@@ -23,8 +23,6 @@ export function BattleFloor({ battle, onEnd }) {
     console.log("topic changed:", topic);
     setImagesLoaded(false);
     setIndex(0); // איפוס אינדקס כשמשנים נושא
-console.log(p1,p2);
-
     fetch("/imageMap.json")
       .then((res) => res.json())
       .then((data) => {
@@ -91,7 +89,7 @@ console.log(p1,p2);
       console.log("Game already ended");
       return;
     }
-    
+
     if (!imagesLoaded) {
       console.log("Images not loaded yet");
       return;
@@ -122,7 +120,7 @@ console.log(p1,p2);
   const onYes = () => {
     console.log("Yes pressed");
     if (locked || ended || !imagesLoaded) return;
-    
+
     setLocked(true);
     setTurn(turn.id === p1.id ? p2 : p1);
     setShowAnswer(true);
@@ -133,7 +131,7 @@ console.log(p1,p2);
   const onNo = () => {
     console.log("No pressed");
     if (locked || ended || !imagesLoaded) return;
-    
+
     setLocked(true);
 
     setTime((prev) => {
@@ -171,7 +169,7 @@ console.log(p1,p2);
   // =============================
   // רינדור
   // =============================
-  
+
   // מסך טעינה
   if (!imagesLoaded) {
     return (
@@ -209,7 +207,7 @@ console.log(p1,p2);
       <h2>
         {p1.name} מול {p2.name}
       </h2>
-      <h3>נושא: {topic}</h3>
+      <h3>נושא: {hebrewTopic[topic]}</h3>
 
       <h2>
         ⏱️ {p1.name}: {time[p1.id]} | {p2.name}: {time[p2.id]}
@@ -223,9 +221,9 @@ console.log(p1,p2);
       <img
         src={current.src}
         alt={current.answer}
-        style={{ width: 300, height: 300, objectFit: "cover" }}
+        style={{ width: 300, height: 300, objectFit: "contain",}}
       />
-      
+
       {showAnswer && <h2 style={{ color: "green" }}>{current.answer}</h2>}
 
       <div style={{ marginTop: "20px" }}>
